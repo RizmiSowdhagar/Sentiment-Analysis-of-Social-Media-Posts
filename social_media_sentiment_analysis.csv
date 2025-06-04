@@ -1,0 +1,501 @@
+Post,Sentiment,Likes,Shares,Comments,Platform,Date,Hashtags,User Type,User Followers,Post Type,Sentiment Score,Country,Post Length,Engagement Rate,Time of Day,Topic
+"Fantastic service, will definitely use again! #satisfied",Neutral,2371,682,162,Instagram,2024-08-23,#satisfied,Influencer,478792,Video,0.09519583977193274,India,56,0.006714801594843701,Afternoon,Politics
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3774,966,52,LinkedIn,2024-09-14,#grateful,Influencer,166753,Text,0.003284753230816173,Japan,70,0.028736941842474543,Morning,Education
+"Worst experience ever, not recommended. #angry",Neutral,2487,418,84,Twitter,2024-04-28,#angry,Brand,481643,Text,0.012461244054736031,France,46,0.006205828371162103,Morning,Politics
+"Had an average experience, nothing special. #meh",Neutral,4803,128,258,Twitter,2024-12-21,#meh,Brand,981282,Image,-0.03655692882797418,Australia,48,0.005287975028610503,Morning,Business
+"This service is terrible, never using it again. #disappointed",Negative,2197,563,411,Twitter,2024-08-17,#disappointed,Brand,841112,Link,-0.7283851827019822,Australia,61,0.003770004743714578,Afternoon,Technology
+"Worst experience ever, not recommended. #angry",Neutral,1199,839,414,Facebook,2024-04-02,#angry,Individual,364022,Image,-0.05102345156512436,Japan,46,0.006735838120118784,Afternoon,Business
+Absolutely loving this new product! #amazing #happy,Neutral,822,923,84,Facebook,2024-10-12,"#amazing, #happy",Brand,553678,Link,0.04348915769330164,Canada,51,0.0033033580829325295,Afternoon,Sports
+Absolutely loving this new product! #amazing #happy,Neutral,1409,363,499,Twitter,2025-03-04,"#amazing, #happy",Brand,308094,Text,0.18664648506703868,Australia,51,0.007371103068858631,Afternoon,Lifestyle
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,629,159,300,Reddit,2024-10-06,#grateful,Individual,609573,Image,0.06381947895736395,USA,70,0.0017848530285084338,Morning,Sports
+"I guess this is fine, not great, not bad. #neutral",Positive,640,592,114,Facebook,2024-07-25,#neutral,Influencer,923624,Text,0.7020084093316747,India,50,0.0014573013939640006,Night,Entertainment
+"Fantastic service, will definitely use again! #satisfied",Neutral,4663,427,333,Instagram,2024-09-19,#satisfied,Individual,800216,Text,-0.17872824221444183,South Africa,56,0.006776911762684371,Evening,Business
+Absolutely loving this new product! #amazing #happy,Neutral,4504,123,424,Twitter,2025-01-26,"#amazing, #happy",Brand,763247,Text,-0.05251799395672371,UK,51,0.006617770370836216,Morning,Technology
+"Loving the new feature, makes life so easy! #great",Positive,2332,47,115,Reddit,2025-01-27,#great,Individual,58268,Image,0.866615624125375,South Africa,50,0.042801489642863275,Evening,Health
+"I guess this is fine, not great, not bad. #neutral",Positive,464,449,329,LinkedIn,2024-11-07,#neutral,Influencer,502672,Video,0.7572335274070989,Germany,50,0.002470791150509377,Morning,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,1177,965,343,LinkedIn,2024-05-24,#satisfied,Influencer,946486,Image,-0.195682307526326,India,56,0.0026254982899923613,Morning,Lifestyle
+"Neutral about the new update, doesn't change much. #okay",Neutral,641,401,182,Facebook,2025-02-06,#okay,Individual,177652,Image,0.14484689557614477,Brazil,56,0.0068898358035045845,Morning,Science
+Why is this app so slow? So frustrating! #fail,Negative,1108,13,162,Instagram,2025-03-04,#fail,Brand,621427,Link,-0.7218644328761294,Japan,46,0.002064599599631816,Afternoon,Business
+Why is this app so slow? So frustrating! #fail,Negative,2917,961,224,Twitter,2024-05-11,#fail,Individual,50861,Link,-0.7929797574580482,Germany,46,0.08064960088081476,Morning,Entertainment
+"This service is terrible, never using it again. #disappointed",Negative,3052,193,85,Instagram,2025-02-20,#disappointed,Brand,837273,Image,-0.9587960103679585,Japan,61,0.003977192651390107,Evening,Education
+"This service is terrible, never using it again. #disappointed",Negative,521,709,258,Instagram,2024-05-20,#disappointed,Brand,287621,Text,-0.9752399764187092,India,61,0.005173456828754407,Afternoon,Health
+"I guess this is fine, not great, not bad. #neutral",Positive,556,285,352,Facebook,2024-06-11,#neutral,Individual,826322,Video,0.9886515120743883,Japan,50,0.0014437453634958727,Evening,Health
+"Worst experience ever, not recommended. #angry",Neutral,2736,762,207,LinkedIn,2024-03-20,#angry,Individual,160894,Video,-0.14169529962033767,Germany,46,0.02302744025606762,Evening,Science
+"I guess this is fine, not great, not bad. #neutral",Positive,3366,337,13,Facebook,2024-05-08,#neutral,Brand,296087,Image,0.7108185351936971,UK,50,0.012550322876982519,Afternoon,Politics
+"Loving the new feature, makes life so easy! #great",Positive,11,815,14,Twitter,2024-03-31,#great,Influencer,888291,Image,0.9744913663661003,Germany,50,0.0009456349938984028,Evening,Health
+Absolutely loving this new product! #amazing #happy,Neutral,1995,605,41,Reddit,2025-03-15,"#amazing, #happy",Brand,669396,Link,-0.005320964136284745,South Africa,51,0.003945341852443318,Morning,Business
+"Neutral about the new update, doesn't change much. #okay",Neutral,3721,279,95,Facebook,2024-09-28,#okay,Individual,360293,Video,-0.16449730655380423,Japan,56,0.011365717996969142,Morning,Technology
+Why is this app so slow? So frustrating! #fail,Negative,940,997,57,Twitter,2025-01-01,#fail,Influencer,203100,Text,-0.8544703869968407,USA,46,0.009817775392538688,Afternoon,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,3337,965,167,LinkedIn,2025-02-12,#neutral,Brand,909665,Link,0.7913966792341152,India,50,0.004912792167674729,Afternoon,Education
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3284,741,317,Instagram,2024-10-06,#grateful,Individual,745430,Link,-0.07768140223196124,South Africa,70,0.005824818125352984,Evening,Health
+"Neutral about the new update, doesn't change much. #okay",Neutral,574,967,57,Twitter,2024-11-15,#okay,Influencer,580978,Image,-0.17497555313585755,South Africa,56,0.002750529709335449,Morning,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,4583,964,207,Twitter,2025-03-15,#neutral,Brand,157956,Image,0.8385418182327713,Canada,50,0.03642763536911944,Morning,Business
+"Had an average experience, nothing special. #meh",Neutral,1563,533,217,Reddit,2024-08-11,#meh,Brand,781165,Link,-0.04934810617007129,Germany,48,0.0029609583622431084,Afternoon,Health
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2388,808,333,Twitter,2024-10-12,#grateful,Individual,584427,Link,0.10896818916270729,Japan,70,0.006038382829022566,Night,Education
+Absolutely loving this new product! #amazing #happy,Neutral,2342,3,273,Reddit,2024-10-05,"#amazing, #happy",Individual,863704,Image,0.15972913960031904,USA,51,0.003031127526180814,Morning,Sports
+"This service is terrible, never using it again. #disappointed",Negative,4115,155,348,Reddit,2024-04-03,#disappointed,Individual,483753,Video,-0.6131498062131862,Australia,61,0.009546174295199626,Morning,Lifestyle
+"Neutral about the new update, doesn't change much. #okay",Neutral,4921,437,208,Twitter,2024-06-27,#okay,Brand,955337,Image,0.1443477372162716,South Africa,56,0.0058262101999501745,Night,Business
+Why is this app so slow? So frustrating! #fail,Negative,4998,365,198,Instagram,2024-10-12,#fail,Influencer,250501,Video,-0.6817820137380002,USA,46,0.02219942355749655,Night,Technology
+"Loving the new feature, makes life so easy! #great",Positive,2601,571,345,Facebook,2024-07-17,#great,Brand,647077,Image,0.5659417813364676,UK,50,0.005435202556724228,Night,Health
+Why is this app so slow? So frustrating! #fail,Negative,711,827,98,Facebook,2025-02-05,#fail,Individual,475404,Text,-0.5857697987705313,Canada,46,0.0034412763853977134,Night,Science
+"Worst experience ever, not recommended. #angry",Neutral,1820,450,93,Instagram,2024-08-21,#angry,Brand,625235,Image,-0.19398759535501509,India,46,0.0037793729087896412,Evening,Business
+Absolutely loving this new product! #amazing #happy,Neutral,1127,921,239,Reddit,2024-11-05,"#amazing, #happy",Brand,231293,Text,0.07668936001597837,Japan,51,0.009887848366148711,Evening,Politics
+"Loving the new feature, makes life so easy! #great",Positive,2759,496,432,Twitter,2024-06-20,#great,Influencer,150973,Video,0.6046041140622176,UK,50,0.024421423556373945,Morning,Politics
+"Fantastic service, will definitely use again! #satisfied",Neutral,317,12,219,LinkedIn,2024-08-15,#satisfied,Brand,28439,Image,0.039111423937834455,Japan,56,0.019268635724331927,Morning,Business
+"Fantastic service, will definitely use again! #satisfied",Neutral,4070,213,81,Instagram,2025-02-13,#satisfied,Brand,896287,Link,-0.04433854324466813,Germany,56,0.004868970687993145,Morning,Education
+"Loving the new feature, makes life so easy! #great",Positive,818,541,287,Twitter,2024-05-31,#great,Individual,664533,Image,0.6107445943272833,USA,50,0.002476923678848637,Night,Politics
+Absolutely loving this new product! #amazing #happy,Neutral,604,750,73,Instagram,2024-03-25,"#amazing, #happy",Influencer,984408,Text,-0.13638040322380662,India,51,0.0014496007249019463,Evening,Health
+"Had an average experience, nothing special. #meh",Neutral,161,881,149,Twitter,2024-08-27,#meh,Brand,880846,Link,-0.18049679146201472,France,48,0.001352107687260103,Morning,Lifestyle
+"I guess this is fine, not great, not bad. #neutral",Positive,2795,156,199,Twitter,2024-05-21,#neutral,Influencer,163181,Video,0.7682765945877925,UK,50,0.019303599661727396,Night,Business
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,453,154,312,Facebook,2024-12-22,#grateful,Brand,741404,Text,-0.07767035539346115,Germany,70,0.0012395384439004324,Afternoon,Politics
+"Worst experience ever, not recommended. #angry",Neutral,2503,51,73,Reddit,2024-10-31,#angry,Individual,883290,Text,0.05291161780259712,India,46,0.0029741047967204465,Night,Lifestyle
+Why is this app so slow? So frustrating! #fail,Negative,4335,46,492,Reddit,2024-10-22,#fail,Individual,653050,Image,-0.9190104638059897,India,46,0.007461898075341742,Night,Politics
+"Neutral about the new update, doesn't change much. #okay",Neutral,1014,751,462,LinkedIn,2025-01-30,#okay,Influencer,802479,Link,0.12796808849986752,France,56,0.0027751470441630946,Morning,Health
+"This service is terrible, never using it again. #disappointed",Negative,345,981,355,Instagram,2024-11-14,#disappointed,Influencer,732102,Link,-0.6327625765798954,Australia,61,0.002296124998804813,Evening,Politics
+Absolutely loving this new product! #amazing #happy,Neutral,2375,908,55,Instagram,2025-01-07,"#amazing, #happy",Individual,449744,Text,-0.12878662406384866,Japan,51,0.007421983568466575,Morning,Health
+"Neutral about the new update, doesn't change much. #okay",Neutral,897,539,256,Reddit,2024-12-02,#okay,Brand,826388,Image,0.06650897736523886,Germany,56,0.0020474619095849533,Evening,Sports
+"Loving the new feature, makes life so easy! #great",Positive,1433,377,123,LinkedIn,2024-05-09,#great,Individual,494035,Link,0.5964508700425085,South Africa,50,0.003912670331716717,Morning,Science
+"Had an average experience, nothing special. #meh",Neutral,3407,133,411,Reddit,2024-10-29,#meh,Brand,480782,Text,0.17112757185695004,Germany,48,0.008217844640929483,Afternoon,Lifestyle
+"Fantastic service, will definitely use again! #satisfied",Neutral,3129,800,98,Reddit,2024-11-21,#satisfied,Influencer,869880,Link,-0.08405938510489226,Japan,56,0.0046293688447040455,Morning,Health
+"Fantastic service, will definitely use again! #satisfied",Neutral,831,491,63,Facebook,2024-12-31,#satisfied,Influencer,181688,Link,0.07341045189855755,Canada,56,0.007622916081876173,Evening,Business
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2776,938,27,Instagram,2024-05-20,#grateful,Brand,583060,Text,-0.1717479781166089,USA,70,0.006416138277127093,Night,Politics
+"I guess this is fine, not great, not bad. #neutral",Positive,410,13,345,Instagram,2024-12-30,#neutral,Individual,876758,Text,0.7246451740763278,Brazil,50,0.0008759533691698631,Afternoon,Entertainment
+"Worst experience ever, not recommended. #angry",Neutral,488,78,61,Twitter,2024-07-25,#angry,Brand,444362,Text,0.18755842999378375,UK,46,0.0014110085673199615,Afternoon,Technology
+Why is this app so slow? So frustrating! #fail,Negative,2650,656,91,Reddit,2024-06-15,#fail,Influencer,354853,Link,-0.9613898291269121,UK,46,0.009572951129196797,Morning,Science
+"This service is terrible, never using it again. #disappointed",Negative,4602,874,287,Twitter,2024-10-13,#disappointed,Brand,119951,Image,-0.6913136661419454,South Africa,61,0.04804421768707483,Morning,Education
+"Had an average experience, nothing special. #meh",Neutral,2631,502,119,Instagram,2024-10-09,#meh,Brand,371576,Video,0.1875383749152008,Brazil,48,0.008751887226604445,Morning,Health
+"Worst experience ever, not recommended. #angry",Neutral,4343,554,469,Facebook,2024-07-04,#angry,Individual,863990,Text,0.15176342200052462,UK,46,0.006210712843073597,Afternoon,Education
+"This service is terrible, never using it again. #disappointed",Negative,3129,665,59,Reddit,2024-07-28,#disappointed,Individual,963520,Link,-0.5179963961203919,India,61,0.003998874959653189,Evening,Science
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,603,756,413,LinkedIn,2024-07-20,#grateful,Individual,38600,Image,-0.02865593448938658,France,70,0.045905546488432945,Morning,Sports
+"Worst experience ever, not recommended. #angry",Neutral,4543,679,464,Facebook,2024-06-10,#angry,Brand,209817,Video,0.195561098749028,South Africa,46,0.027099676862804907,Night,Politics
+"Neutral about the new update, doesn't change much. #okay",Neutral,2836,904,344,Reddit,2024-05-02,#okay,Brand,210348,Link,0.05618428633402839,India,56,0.019415352580711105,Morning,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,1730,552,440,Facebook,2024-11-23,#satisfied,Influencer,412234,Link,0.08578806259238753,India,56,0.006603029825221051,Morning,Lifestyle
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2743,631,67,LinkedIn,2025-03-06,#grateful,Influencer,917154,Video,-0.02650051641919443,India,70,0.0037518194852560363,Night,Education
+"Neutral about the new update, doesn't change much. #okay",Neutral,4836,247,166,Twitter,2024-05-16,#okay,Brand,991406,Link,0.17934917317316645,USA,56,0.005294495600696787,Night,Education
+Absolutely loving this new product! #amazing #happy,Neutral,2858,488,43,Facebook,2024-10-05,"#amazing, #happy",Influencer,708325,Link,-0.18863322447214623,USA,51,0.004784520122090676,Evening,Technology
+Why is this app so slow? So frustrating! #fail,Negative,1676,543,216,Instagram,2024-03-24,#fail,Individual,897273,Text,-0.6357724896214327,Brazil,46,0.002713775279346108,Evening,Lifestyle
+Why is this app so slow? So frustrating! #fail,Negative,2360,763,344,Facebook,2024-03-20,#fail,Individual,55491,Link,-0.8724339829247109,USA,46,0.06247747423051971,Afternoon,Health
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,1707,985,317,LinkedIn,2024-07-22,#grateful,Influencer,79878,Text,0.17791334587658464,India,70,0.037669475081060104,Afternoon,Politics
+Absolutely loving this new product! #amazing #happy,Neutral,1004,661,207,Facebook,2024-05-04,"#amazing, #happy",Influencer,657511,Text,-0.10734324425621794,Japan,51,0.0028470963267590555,Night,Education
+"Had an average experience, nothing special. #meh",Neutral,4775,582,301,Reddit,2025-02-01,#meh,Influencer,202237,Video,0.19175745720860493,France,48,0.0279769380630742,Morning,Entertainment
+Why is this app so slow? So frustrating! #fail,Negative,1264,815,371,LinkedIn,2024-09-27,#fail,Brand,351340,Text,-0.6536219069598217,UK,46,0.006973282366703573,Night,Entertainment
+"Neutral about the new update, doesn't change much. #okay",Neutral,3918,757,111,LinkedIn,2024-09-14,#okay,Brand,828759,Video,0.13274266251086192,Japan,56,0.005774892610647232,Evening,Lifestyle
+"I guess this is fine, not great, not bad. #neutral",Positive,2557,362,144,LinkedIn,2025-02-16,#neutral,Brand,852991,Text,0.5462499881654685,Japan,50,0.003590889480792317,Evening,Business
+"This service is terrible, never using it again. #disappointed",Negative,2622,292,189,Twitter,2024-05-24,#disappointed,Brand,891418,Image,-0.7556075064317334,France,61,0.0034809668629454836,Afternoon,Entertainment
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,812,932,90,Facebook,2025-01-11,#grateful,Brand,105189,Link,-0.09136238854235752,Germany,70,0.017435117406597585,Evening,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,735,427,226,Reddit,2024-09-08,#neutral,Brand,490518,Video,0.7542270271781619,Australia,50,0.002829655935855696,Morning,Entertainment
+"This service is terrible, never using it again. #disappointed",Negative,3494,209,251,Twitter,2024-08-29,#disappointed,Individual,515435,Text,-0.6952547442172125,France,61,0.007671175470863502,Evening,Technology
+"Worst experience ever, not recommended. #angry",Neutral,3258,946,252,Reddit,2024-06-20,#angry,Brand,344117,Link,0.013791392570055738,India,46,0.012949046547986447,Morning,Business
+"This service is terrible, never using it again. #disappointed",Negative,2322,639,370,Instagram,2025-01-11,#disappointed,Brand,7883,Image,-0.9091183291972724,France,61,0.42250126839167934,Night,Health
+"Worst experience ever, not recommended. #angry",Neutral,3497,830,128,Facebook,2025-03-02,#angry,Individual,500973,Image,-0.19065838593455864,UK,46,0.00889267706507723,Afternoon,Lifestyle
+"This service is terrible, never using it again. #disappointed",Negative,2880,179,423,Reddit,2024-03-21,#disappointed,Brand,114297,Video,-0.7703218565627751,France,61,0.0304642250958022,Night,Entertainment
+"Neutral about the new update, doesn't change much. #okay",Neutral,4374,725,345,Twitter,2024-06-06,#okay,Individual,44900,Text,-0.19984159909000476,UK,56,0.12124451571234493,Evening,Business
+"Had an average experience, nothing special. #meh",Neutral,4824,612,306,Instagram,2024-05-03,#meh,Individual,508401,Text,0.03527027159994578,South Africa,48,0.011294212060534773,Morning,Business
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,1819,282,369,Twitter,2024-05-28,#grateful,Brand,173249,Link,0.14033696085640096,Australia,70,0.014256854256854258,Afternoon,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,1592,855,131,Reddit,2024-10-19,#satisfied,Brand,137354,Link,0.18485724964072553,South Africa,56,0.018768883549925376,Evening,Politics
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3989,670,158,Twitter,2024-10-28,#grateful,Influencer,116777,Image,-0.0016640769793465071,UK,70,0.04124920789874805,Morning,Politics
+"I guess this is fine, not great, not bad. #neutral",Positive,2581,49,27,Twitter,2025-02-01,#neutral,Influencer,166937,Text,0.982632167316733,India,50,0.015916088607746588,Night,Education
+"Worst experience ever, not recommended. #angry",Neutral,2093,11,29,LinkedIn,2025-02-19,#angry,Brand,344547,Image,-0.03916351966180823,Japan,46,0.0061907194353181556,Evening,Business
+Why is this app so slow? So frustrating! #fail,Negative,2616,956,309,Reddit,2024-11-23,#fail,Influencer,951275,Video,-0.9655278584151896,Brazil,46,0.004079783364659678,Morning,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,291,268,58,Twitter,2024-12-06,#satisfied,Influencer,874704,Image,-0.07236069764828193,France,56,0.0007053806711977181,Evening,Education
+"I guess this is fine, not great, not bad. #neutral",Positive,3898,561,374,LinkedIn,2024-10-28,#neutral,Brand,634903,Text,0.5181045301856027,USA,50,0.007612174438970301,Afternoon,Politics
+Why is this app so slow? So frustrating! #fail,Negative,939,528,119,LinkedIn,2024-04-10,#fail,Influencer,223838,Video,-0.5042121291710634,USA,46,0.0070854498099080145,Afternoon,Science
+"Loving the new feature, makes life so easy! #great",Positive,3230,188,450,Twitter,2024-10-10,#great,Individual,858341,Image,0.9012670385363284,India,50,0.004506362265856733,Afternoon,Technology
+"Worst experience ever, not recommended. #angry",Neutral,562,674,156,Reddit,2024-07-08,#angry,Brand,125870,Text,0.0874768334669076,Japan,46,0.01105894129704221,Night,Education
+"Worst experience ever, not recommended. #angry",Neutral,433,746,118,Instagram,2024-05-19,#angry,Individual,749374,Image,-0.16410314909325088,Australia,46,0.0017307756463719767,Evening,Science
+"I guess this is fine, not great, not bad. #neutral",Positive,2657,134,183,Instagram,2025-01-19,#neutral,Brand,447610,Text,0.75400908367106,France,50,0.006644162006742462,Afternoon,Politics
+"This service is terrible, never using it again. #disappointed",Negative,2661,863,24,LinkedIn,2024-09-01,#disappointed,Individual,842679,Link,-0.5163726870215174,Germany,61,0.00421037641809465,Afternoon,Politics
+Absolutely loving this new product! #amazing #happy,Neutral,3119,213,65,Facebook,2025-01-07,"#amazing, #happy",Individual,876819,Image,0.129890046996474,USA,51,0.0038742273214570837,Night,Lifestyle
+"This service is terrible, never using it again. #disappointed",Negative,4932,494,471,Reddit,2025-01-29,#disappointed,Individual,544172,Image,-0.5708300803076904,UK,61,0.010836627322561024,Night,Business
+Absolutely loving this new product! #amazing #happy,Neutral,2006,329,115,Twitter,2024-05-15,"#amazing, #happy",Brand,200996,Image,-0.002642066175115143,UK,51,0.012189236655273461,Afternoon,Health
+"Loving the new feature, makes life so easy! #great",Positive,4576,691,374,Instagram,2024-06-16,#great,Influencer,880476,Image,0.5702679352905297,Japan,50,0.006406754520561014,Afternoon,Entertainment
+"This service is terrible, never using it again. #disappointed",Negative,385,591,467,Instagram,2024-08-27,#disappointed,Brand,274953,Text,-0.8027413971513684,Japan,61,0.005248150599736683,Morning,Entertainment
+"Neutral about the new update, doesn't change much. #okay",Neutral,4331,271,240,Reddit,2024-10-15,#okay,Brand,408220,Link,-0.13395778530646213,Canada,56,0.011861222230115551,Morning,Business
+"Worst experience ever, not recommended. #angry",Neutral,3830,493,152,Twitter,2024-04-12,#angry,Brand,14545,Text,-0.006304053855615777,USA,46,0.3076447133232504,Morning,Health
+Absolutely loving this new product! #amazing #happy,Neutral,3206,266,285,Instagram,2024-04-08,"#amazing, #happy",Individual,913259,Video,-0.018495991867671036,France,51,0.004113833957471038,Night,Entertainment
+"Neutral about the new update, doesn't change much. #okay",Neutral,412,746,111,Instagram,2024-03-28,#okay,Influencer,518999,Link,-0.11229866837119427,Australia,56,0.0024450867052023123,Night,Science
+"Neutral about the new update, doesn't change much. #okay",Neutral,1207,113,246,Twitter,2024-10-28,#okay,Individual,228025,Link,-0.1992460389405586,Brazil,56,0.0068676379009411205,Evening,Business
+"Neutral about the new update, doesn't change much. #okay",Neutral,4080,77,381,LinkedIn,2024-04-24,#okay,Brand,398743,Image,0.08014101272024077,South Africa,56,0.011380735509499829,Night,Lifestyle
+"I guess this is fine, not great, not bad. #neutral",Positive,4196,550,22,Reddit,2025-02-03,#neutral,Brand,355524,Text,0.9943694989133055,UK,50,0.013411152520919766,Morning,Lifestyle
+"I guess this is fine, not great, not bad. #neutral",Positive,2446,970,101,Facebook,2024-11-15,#neutral,Influencer,188873,Image,0.9595651498904496,USA,50,0.018620879528151044,Afternoon,Business
+"Worst experience ever, not recommended. #angry",Neutral,689,725,102,Twitter,2024-09-06,#angry,Brand,530077,Text,-0.1344301980971213,USA,46,0.0028599564592380745,Evening,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,3728,717,414,Reddit,2024-12-17,#neutral,Influencer,495427,Image,0.7477429921634251,South Africa,50,0.009807681439078939,Morning,Technology
+"Worst experience ever, not recommended. #angry",Neutral,4932,551,353,Instagram,2024-04-04,#angry,Influencer,344158,Link,0.10582682152992973,USA,46,0.01695727846722009,Evening,Sports
+"I guess this is fine, not great, not bad. #neutral",Positive,302,832,328,Twitter,2024-05-19,#neutral,Influencer,470995,Text,0.5391914489777472,South Africa,50,0.0031040603317225622,Afternoon,Business
+"This service is terrible, never using it again. #disappointed",Negative,4378,548,396,Facebook,2024-08-08,#disappointed,Brand,950155,Link,-0.5280527723917892,France,61,0.005601185489540665,Night,Politics
+"This service is terrible, never using it again. #disappointed",Negative,4160,455,388,LinkedIn,2024-05-01,#disappointed,Individual,581835,Video,-0.7163739490249387,USA,61,0.00859864291656068,Evening,Education
+Why is this app so slow? So frustrating! #fail,Negative,3204,612,426,Facebook,2024-07-21,#fail,Influencer,622871,Text,-0.7247672661760949,UK,46,0.006810388009093361,Morning,Business
+"Had an average experience, nothing special. #meh",Neutral,4051,114,133,Instagram,2025-03-12,#meh,Influencer,579834,Image,-0.09483933084085053,France,48,0.007412453542818215,Evening,Technology
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,1446,929,344,Instagram,2025-02-26,#grateful,Brand,105520,Image,0.08297773648411633,France,70,0.025767382795841585,Afternoon,Health
+"I guess this is fine, not great, not bad. #neutral",Positive,1267,63,406,Reddit,2024-09-03,#neutral,Individual,441048,Text,0.7819058117403895,USA,50,0.003936070595330678,Morning,Entertainment
+"This service is terrible, never using it again. #disappointed",Negative,206,729,113,LinkedIn,2024-07-28,#disappointed,Brand,763429,Video,-0.5621460757526895,Brazil,61,0.0013727519222456544,Morning,Technology
+"Had an average experience, nothing special. #meh",Neutral,4589,949,312,Twitter,2024-04-08,#meh,Brand,152290,Image,-0.1337840330612951,UK,48,0.038413300851659,Afternoon,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,1004,291,336,LinkedIn,2024-06-16,#neutral,Influencer,3886,Text,0.8307466577262141,Canada,50,0.41960380756367377,Night,Health
+"This service is terrible, never using it again. #disappointed",Negative,3681,770,26,Twitter,2024-07-23,#disappointed,Brand,874455,Text,-0.7209019600179332,USA,61,0.0051197544530542415,Afternoon,Business
+"I guess this is fine, not great, not bad. #neutral",Positive,159,320,480,Facebook,2025-02-26,#neutral,Influencer,400078,Link,0.757566674911879,Japan,50,0.0023970265872490185,Evening,Politics
+"This service is terrible, never using it again. #disappointed",Negative,2735,440,365,LinkedIn,2024-12-08,#disappointed,Influencer,569751,Link,-0.9871572003280291,Brazil,61,0.006213229615692441,Night,Health
+"Fantastic service, will definitely use again! #satisfied",Neutral,270,873,16,Facebook,2025-02-14,#satisfied,Influencer,512456,Image,0.005463081448121937,UK,56,0.0022616531728515757,Night,Politics
+"I guess this is fine, not great, not bad. #neutral",Positive,219,970,341,Facebook,2024-04-15,#neutral,Individual,552841,Text,0.5202592952738231,Brazil,50,0.002767517663274498,Night,Technology
+"Loving the new feature, makes life so easy! #great",Positive,4620,230,110,Reddit,2024-05-23,#great,Individual,759245,Video,0.9402446039325091,USA,50,0.0065327970117722055,Evening,Science
+"Loving the new feature, makes life so easy! #great",Positive,3260,14,264,Twitter,2024-08-20,#great,Influencer,20665,Link,0.7446807313206802,India,50,0.17119907093777217,Evening,Education
+"Had an average experience, nothing special. #meh",Neutral,953,734,363,Twitter,2024-10-22,#meh,Brand,839836,Link,0.17846962150087892,India,48,0.0024409498509829885,Evening,Sports
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,4304,517,88,Reddit,2024-05-04,#grateful,Brand,94761,Text,0.0015364710571552642,Australia,70,0.051803465524155254,Morning,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,3445,242,315,LinkedIn,2024-08-07,#neutral,Brand,597641,Image,0.9975075855831497,Brazil,50,0.00669631652393908,Afternoon,Business
+"Fantastic service, will definitely use again! #satisfied",Neutral,1556,282,128,Instagram,2024-09-30,#satisfied,Influencer,415993,Link,0.1670399712236686,Australia,56,0.004726029702351476,Night,Health
+"I guess this is fine, not great, not bad. #neutral",Positive,7,513,236,LinkedIn,2025-01-13,#neutral,Influencer,591304,Text,0.5948189297855546,Australia,50,0.0012785280016235276,Morning,Education
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,4699,691,51,Facebook,2024-11-29,#grateful,Brand,87736,Link,0.04741505024158027,Japan,70,0.06201488539612706,Afternoon,Sports
+"Loving the new feature, makes life so easy! #great",Positive,4931,884,460,LinkedIn,2025-02-11,#great,Brand,998221,Text,0.7786055076497834,Australia,50,0.00628617682239021,Afternoon,Education
+"Had an average experience, nothing special. #meh",Neutral,2646,652,349,Reddit,2025-03-01,#meh,Influencer,672784,Video,-0.001368687019608128,South Africa,48,0.005420751057172797,Evening,Technology
+"Loving the new feature, makes life so easy! #great",Positive,4909,395,240,Facebook,2024-09-07,#great,Influencer,881171,Link,0.8640982206019148,India,50,0.006291620705151775,Night,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,1749,551,477,Twitter,2025-01-10,#neutral,Brand,70333,Video,0.7287187329566052,UK,50,0.03948303807546848,Evening,Sports
+Why is this app so slow? So frustrating! #fail,Negative,475,722,318,Instagram,2024-08-25,#fail,Influencer,629808,Video,-0.5992229982187431,Brazil,46,0.002405491188598448,Afternoon,Health
+"Loving the new feature, makes life so easy! #great",Positive,2875,808,66,LinkedIn,2025-01-19,#great,Influencer,154056,Image,0.8889296861402679,USA,50,0.024335148678735794,Night,Health
+"Fantastic service, will definitely use again! #satisfied",Neutral,1052,400,443,Facebook,2024-03-20,#satisfied,Individual,987187,Video,-0.19839161479489037,India,56,0.0019195938362297758,Morning,Entertainment
+"Fantastic service, will definitely use again! #satisfied",Neutral,2634,125,56,Reddit,2024-04-06,#satisfied,Brand,683694,Link,-0.10088966375674008,France,56,0.004117333021303359,Evening,Politics
+"Loving the new feature, makes life so easy! #great",Positive,667,158,353,Reddit,2025-03-01,#great,Individual,245573,Text,0.7987662789729058,South Africa,50,0.004796924755878065,Afternoon,Entertainment
+"Worst experience ever, not recommended. #angry",Neutral,2900,537,103,Instagram,2024-10-30,#angry,Influencer,247031,Image,0.01543950613406389,India,46,0.014330127270960847,Morning,Politics
+"Fantastic service, will definitely use again! #satisfied",Neutral,398,260,428,Twitter,2024-06-08,#satisfied,Brand,400119,Link,-0.13005368687347357,South Africa,56,0.002714185744276717,Morning,Business
+"Had an average experience, nothing special. #meh",Neutral,4692,472,410,Reddit,2024-12-01,#meh,Influencer,725895,Text,0.08156313628343115,USA,48,0.0076787859417878045,Evening,Business
+"Worst experience ever, not recommended. #angry",Neutral,1865,673,137,Facebook,2024-03-26,#angry,Brand,109927,Video,-0.003582828959640849,South Africa,46,0.02433410959901026,Evening,Science
+"Fantastic service, will definitely use again! #satisfied",Neutral,3693,429,314,Instagram,2024-10-09,#satisfied,Brand,794890,Image,-0.028786155358582588,Canada,56,0.005580639358100671,Afternoon,Politics
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3217,829,478,Facebook,2025-02-13,#grateful,Influencer,803556,Link,-0.19468337425604895,South Africa,70,0.0056299677558654835,Night,Education
+"I guess this is fine, not great, not bad. #neutral",Positive,2156,226,296,Instagram,2024-03-20,#neutral,Brand,344033,Text,0.726620867580785,France,50,0.007784114360789922,Afternoon,Business
+"Worst experience ever, not recommended. #angry",Neutral,2464,601,295,LinkedIn,2024-06-23,#angry,Influencer,213805,Video,0.07537610589555055,Australia,46,0.015715181051981702,Morning,Science
+"Loving the new feature, makes life so easy! #great",Positive,26,749,294,Instagram,2024-03-31,#great,Brand,428842,Image,0.6108059148275329,Canada,50,0.0024927537583684474,Evening,Politics
+"Worst experience ever, not recommended. #angry",Neutral,4116,239,152,Instagram,2024-07-08,#angry,Individual,151371,Link,-0.13854416327496322,UK,46,0.029774330787728245,Night,Politics
+Why is this app so slow? So frustrating! #fail,Negative,3966,934,396,LinkedIn,2025-02-12,#fail,Influencer,630959,Text,-0.834373782526435,Germany,46,0.008393559021174083,Afternoon,Entertainment
+"Had an average experience, nothing special. #meh",Neutral,285,628,240,Instagram,2024-11-18,#meh,Individual,710735,Text,0.11575138965663867,Canada,48,0.0016222619932014137,Night,Education
+"Had an average experience, nothing special. #meh",Neutral,432,259,50,Twitter,2024-12-02,#meh,Individual,21596,Text,0.19507126914953044,Japan,48,0.03431032087789971,Evening,Lifestyle
+"Neutral about the new update, doesn't change much. #okay",Neutral,2823,201,86,LinkedIn,2024-05-06,#okay,Individual,778061,Video,0.14603627490291177,Australia,56,0.003997110770092872,Night,Politics
+"Neutral about the new update, doesn't change much. #okay",Neutral,1906,633,448,Reddit,2024-05-31,#okay,Individual,636016,Image,0.031141630038364537,Germany,56,0.004696415347388514,Morning,Education
+Why is this app so slow? So frustrating! #fail,Negative,1375,135,359,Reddit,2024-10-28,#fail,Individual,144851,Image,-0.5399109929131024,USA,46,0.012902824952365173,Evening,Health
+"Fantastic service, will definitely use again! #satisfied",Neutral,1646,608,405,LinkedIn,2024-08-21,#satisfied,Influencer,783938,Link,-0.10636938764373012,Australia,56,0.003391845539002397,Evening,Sports
+"Fantastic service, will definitely use again! #satisfied",Neutral,2820,934,287,Twitter,2024-07-27,#satisfied,Influencer,817872,Text,0.14337421041807935,South Africa,56,0.004940864902008013,Evening,Education
+"Worst experience ever, not recommended. #angry",Neutral,1855,540,244,Instagram,2024-08-09,#angry,Brand,543854,Video,0.08898508069445787,Germany,46,0.004852396318871758,Evening,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,577,361,450,Instagram,2024-09-29,#neutral,Influencer,112547,Link,0.8851154599826649,UK,50,0.012332515904325266,Morning,Business
+"Fantastic service, will definitely use again! #satisfied",Neutral,2819,50,349,Reddit,2024-08-14,#satisfied,Brand,701193,Video,-0.11756140108741797,Canada,56,0.004589314797331409,Afternoon,Education
+"This service is terrible, never using it again. #disappointed",Negative,3922,53,448,Instagram,2024-09-14,#disappointed,Brand,567547,Text,-0.5953454851561246,Canada,61,0.007793173440836722,Night,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,1415,329,496,LinkedIn,2024-09-27,#neutral,Brand,51764,Image,0.6793052691096528,South Africa,50,0.043272481406355645,Night,Entertainment
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2955,957,240,Twitter,2024-06-11,#grateful,Individual,851575,Image,0.10338012845385985,Brazil,70,0.004875665824306932,Afternoon,Politics
+Why is this app so slow? So frustrating! #fail,Negative,4359,410,402,Instagram,2025-02-18,#fail,Influencer,958790,Text,-0.5519547889830028,Canada,46,0.0053932504581290395,Afternoon,Lifestyle
+"I guess this is fine, not great, not bad. #neutral",Positive,3072,539,146,Instagram,2024-12-11,#neutral,Brand,128257,Image,0.516383503794329,Germany,50,0.029292519764848975,Morning,Education
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3800,925,264,Twitter,2024-07-01,#grateful,Influencer,470377,Image,-0.036110046848076754,Japan,70,0.010606363392845753,Evening,Entertainment
+Absolutely loving this new product! #amazing #happy,Neutral,1070,189,93,Twitter,2024-04-25,"#amazing, #happy",Brand,389330,Link,-0.01736636330685229,France,51,0.003472623551682245,Morning,Entertainment
+"This service is terrible, never using it again. #disappointed",Negative,2197,681,342,LinkedIn,2024-08-05,#disappointed,Brand,93050,Image,-0.7799477634496932,Brazil,61,0.03460467915444219,Morning,Technology
+"Neutral about the new update, doesn't change much. #okay",Neutral,2099,178,36,LinkedIn,2025-03-01,#okay,Influencer,600324,Link,-0.08204728017883536,Australia,56,0.0038529130054553782,Afternoon,Sports
+"Loving the new feature, makes life so easy! #great",Positive,809,913,307,Instagram,2025-02-16,#great,Brand,609859,Text,0.642538967796376,UK,50,0.0033269930803791034,Afternoon,Entertainment
+"Neutral about the new update, doesn't change much. #okay",Neutral,4842,186,479,Facebook,2024-07-20,#okay,Individual,546699,Video,-0.06644239328526766,Canada,56,0.01007316627034937,Afternoon,Politics
+Absolutely loving this new product! #amazing #happy,Neutral,2826,948,250,Facebook,2025-01-07,"#amazing, #happy",Influencer,534677,Video,-0.1546761683185067,Australia,51,0.007526025009444937,Night,Politics
+"This service is terrible, never using it again. #disappointed",Negative,3699,888,448,Reddit,2025-03-04,#disappointed,Individual,619880,Image,-0.9899770580636877,Brazil,61,0.008122526743036164,Afternoon,Entertainment
+"Neutral about the new update, doesn't change much. #okay",Neutral,4606,979,190,Instagram,2024-12-10,#okay,Influencer,130642,Text,-0.07766456166049159,Japan,56,0.04420443498694917,Afternoon,Health
+"Worst experience ever, not recommended. #angry",Neutral,1070,68,232,Instagram,2024-06-08,#angry,Brand,203516,Image,0.19661423907763842,Canada,46,0.006731624385186496,Evening,Lifestyle
+Why is this app so slow? So frustrating! #fail,Negative,2921,585,357,Twitter,2024-12-09,#fail,Influencer,141709,Image,-0.8333307469866879,Brazil,46,0.027259896972690708,Morning,Lifestyle
+"Fantastic service, will definitely use again! #satisfied",Neutral,4379,690,45,LinkedIn,2024-08-07,#satisfied,Individual,859432,Link,0.10286571988301174,UK,56,0.005950434763384697,Evening,Sports
+Absolutely loving this new product! #amazing #happy,Neutral,3180,425,186,Reddit,2025-01-18,"#amazing, #happy",Individual,394636,Link,-0.06805224414061803,South Africa,51,0.009606296419240974,Night,Sports
+Absolutely loving this new product! #amazing #happy,Neutral,743,593,246,Twitter,2024-06-01,"#amazing, #happy",Individual,673444,Image,0.1362870711094974,India,51,0.0023491153694808037,Night,Sports
+"I guess this is fine, not great, not bad. #neutral",Positive,2376,824,145,Twitter,2024-03-20,#neutral,Brand,46213,Link,0.8265931207798093,France,50,0.07238066386809192,Night,Lifestyle
+Absolutely loving this new product! #amazing #happy,Neutral,1653,882,183,LinkedIn,2024-03-15,"#amazing, #happy",Individual,326991,Text,0.10986754068883264,South Africa,51,0.008312129960366003,Afternoon,Technology
+Absolutely loving this new product! #amazing #happy,Neutral,3920,337,195,Reddit,2025-01-10,"#amazing, #happy",Brand,701165,Text,0.029104670538528665,USA,51,0.0063494236742797,Evening,Technology
+Absolutely loving this new product! #amazing #happy,Neutral,4317,349,350,Instagram,2024-12-04,"#amazing, #happy",Influencer,339797,Text,-0.07267559899856488,South Africa,51,0.014761711369696114,Night,Lifestyle
+"Had an average experience, nothing special. #meh",Neutral,1039,294,138,Instagram,2024-05-29,#meh,Individual,811356,Text,0.18115696290733152,Germany,48,0.00181301202799754,Afternoon,Education
+Why is this app so slow? So frustrating! #fail,Negative,3689,531,215,LinkedIn,2024-08-14,#fail,Individual,392862,Video,-0.7791192000666203,Brazil,46,0.011288922601517577,Afternoon,Politics
+"Loving the new feature, makes life so easy! #great",Positive,4127,36,309,Reddit,2024-12-17,#great,Brand,129759,Image,0.5195248963807164,South Africa,50,0.034463625154130706,Night,Business
+"This service is terrible, never using it again. #disappointed",Negative,2081,604,454,Twitter,2024-11-18,#disappointed,Individual,443394,Link,-0.5962190200889959,Japan,61,0.0070794663900134195,Morning,Technology
+"Had an average experience, nothing special. #meh",Neutral,814,456,435,Reddit,2024-05-30,#meh,Brand,666751,Image,0.07690007735535981,Canada,48,0.0025571726818967174,Evening,Lifestyle
+"Fantastic service, will definitely use again! #satisfied",Neutral,3412,793,385,Facebook,2024-08-26,#satisfied,Influencer,835398,Video,-0.16359109570719332,Brazil,56,0.005494380529543368,Night,Lifestyle
+"Worst experience ever, not recommended. #angry",Neutral,2636,137,408,LinkedIn,2025-01-22,#angry,Brand,3492,Text,-0.1977919678305856,Brazil,46,0.9106784998568566,Night,Business
+Absolutely loving this new product! #amazing #happy,Neutral,3926,597,127,Instagram,2024-05-21,"#amazing, #happy",Brand,550668,Video,0.1473378606079181,India,51,0.00844427414653812,Night,Politics
+"Neutral about the new update, doesn't change much. #okay",Neutral,2160,823,315,Twitter,2025-03-03,#okay,Influencer,55819,Link,-0.10402062450722097,Australia,56,0.059082766033679686,Night,Politics
+"Neutral about the new update, doesn't change much. #okay",Neutral,2587,866,487,Twitter,2024-12-22,#okay,Individual,732454,Text,0.06607911005404565,USA,56,0.005379170051402475,Evening,Science
+"Neutral about the new update, doesn't change much. #okay",Neutral,3846,865,72,Instagram,2025-02-28,#okay,Brand,163851,Text,0.1114576202210632,France,56,0.0291909772233479,Afternoon,Lifestyle
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,399,656,75,Twitter,2024-08-20,#grateful,Brand,45665,Link,-0.12554033697372152,USA,70,0.02474488678666842,Afternoon,Politics
+"This service is terrible, never using it again. #disappointed",Negative,2718,302,430,Facebook,2024-03-28,#disappointed,Brand,600519,Link,-0.5872022035315967,France,61,0.00574502098181576,Evening,Science
+"Had an average experience, nothing special. #meh",Neutral,985,561,134,Twitter,2024-03-21,#meh,Influencer,993505,Image,0.1454175093169514,Japan,48,0.0016909812321213964,Afternoon,Technology
+"Loving the new feature, makes life so easy! #great",Positive,4380,509,233,Instagram,2024-06-13,#great,Individual,548546,Text,0.6712614886631317,Canada,50,0.009337394972536538,Afternoon,Lifestyle
+"Fantastic service, will definitely use again! #satisfied",Neutral,3661,986,129,LinkedIn,2024-08-28,#satisfied,Influencer,833851,Text,0.03711538525698127,Australia,56,0.005727635119901374,Afternoon,Technology
+"Loving the new feature, makes life so easy! #great",Positive,3445,51,251,Instagram,2024-10-08,#great,Influencer,916755,Link,0.5783726307497985,Germany,50,0.00408723804371065,Morning,Technology
+"Had an average experience, nothing special. #meh",Neutral,2455,763,8,Facebook,2024-11-22,#meh,Brand,901782,Text,-0.1280439880454859,France,48,0.003577357302144751,Night,Lifestyle
+"Loving the new feature, makes life so easy! #great",Positive,3603,900,422,Facebook,2024-10-08,#great,Brand,990979,Text,0.6840347354899978,Germany,50,0.004969827847181578,Morning,Education
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3441,83,240,LinkedIn,2025-01-23,#grateful,Brand,792079,Video,-0.13373238863298503,Canada,70,0.004752045247954752,Morning,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,4720,186,265,Instagram,2024-07-27,#neutral,Brand,19606,Link,0.6326303435820383,Canada,50,0.2637323404906411,Evening,Science
+"Neutral about the new update, doesn't change much. #okay",Neutral,3055,723,310,LinkedIn,2024-05-08,#okay,Brand,607804,Text,-0.04588868369872978,France,56,0.006725841347142587,Night,Sports
+Absolutely loving this new product! #amazing #happy,Neutral,254,893,342,LinkedIn,2024-10-05,"#amazing, #happy",Brand,226842,Link,-0.11793564444225951,France,51,0.006564011232438294,Afternoon,Education
+"Neutral about the new update, doesn't change much. #okay",Neutral,2522,137,76,Facebook,2024-05-21,#okay,Individual,569441,Text,-0.17864452126452868,USA,56,0.004802947446798796,Evening,Education
+Absolutely loving this new product! #amazing #happy,Neutral,349,78,488,LinkedIn,2024-07-08,"#amazing, #happy",Individual,635428,Text,-0.06223160452723353,Germany,51,0.0014399720503785632,Morning,Education
+"Worst experience ever, not recommended. #angry",Neutral,397,315,485,LinkedIn,2024-06-05,#angry,Individual,121507,Video,-0.10958781449631615,USA,46,0.009851203212957172,Afternoon,Health
+"This service is terrible, never using it again. #disappointed",Negative,391,941,126,Twitter,2024-09-03,#disappointed,Influencer,528986,Image,-0.67200161211241,France,61,0.002756211400280158,Night,Lifestyle
+"This service is terrible, never using it again. #disappointed",Negative,3465,147,190,LinkedIn,2024-08-07,#disappointed,Individual,208659,Link,-0.7059735574701296,South Africa,61,0.01822102942586025,Morning,Science
+"Neutral about the new update, doesn't change much. #okay",Neutral,629,787,215,Twitter,2025-01-22,#okay,Brand,31879,Link,0.035690302162734694,USA,56,0.05116060225846926,Morning,Health
+Why is this app so slow? So frustrating! #fail,Negative,2769,599,473,Reddit,2025-02-20,#fail,Brand,940631,Link,-0.7598922777611994,USA,46,0.004083424761224369,Morning,Technology
+"Had an average experience, nothing special. #meh",Neutral,3083,624,495,LinkedIn,2024-08-07,#meh,Influencer,591377,Text,0.15033301849508457,Germany,48,0.0071054384843534935,Evening,Politics
+"Had an average experience, nothing special. #meh",Neutral,4962,646,233,LinkedIn,2024-06-26,#meh,Influencer,937838,Text,0.024791271192726866,Brazil,48,0.006228147901718739,Afternoon,Business
+"This service is terrible, never using it again. #disappointed",Negative,1220,977,60,LinkedIn,2024-11-09,#disappointed,Individual,598826,Link,-0.9219419968188549,France,61,0.003769035130346494,Evening,Technology
+"Fantastic service, will definitely use again! #satisfied",Neutral,1081,590,130,Facebook,2024-08-22,#satisfied,Individual,190745,Text,0.12793104992825882,India,56,0.009441875583236345,Evening,Technology
+"Fantastic service, will definitely use again! #satisfied",Neutral,2226,758,244,Facebook,2024-08-22,#satisfied,Influencer,589432,Video,-0.12842590792735434,Japan,56,0.0054764494013738625,Evening,Sports
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,4970,190,335,Reddit,2024-10-06,#grateful,Influencer,672238,Video,-0.08828113699546153,South Africa,70,0.008174176148661413,Afternoon,Business
+"Worst experience ever, not recommended. #angry",Neutral,2385,638,85,LinkedIn,2024-06-16,#angry,Influencer,145246,Link,0.16442398921847745,Germany,46,0.021398032317362838,Night,Entertainment
+"Had an average experience, nothing special. #meh",Neutral,2935,328,167,Twitter,2024-05-22,#meh,Brand,42370,Image,-0.17111510256202533,USA,48,0.08095159425078473,Evening,Lifestyle
+"Fantastic service, will definitely use again! #satisfied",Neutral,4762,47,284,Instagram,2024-08-04,#satisfied,Individual,901067,Text,0.18045157670454903,Canada,56,0.005652181633350646,Afternoon,Education
+"This service is terrible, never using it again. #disappointed",Negative,1098,522,42,Instagram,2025-01-15,#disappointed,Brand,334555,Image,-0.6681026001269137,Germany,61,0.004967778189600545,Afternoon,Politics
+"Loving the new feature, makes life so easy! #great",Positive,3351,469,21,Twitter,2024-08-10,#great,Individual,11980,Image,0.9890794494758739,India,50,0.32059093564810953,Afternoon,Technology
+"Worst experience ever, not recommended. #angry",Neutral,3545,934,5,Reddit,2024-12-14,#angry,Individual,56537,Link,-0.19674380858085275,Australia,46,0.07930949096183099,Afternoon,Science
+Why is this app so slow? So frustrating! #fail,Negative,4881,749,429,LinkedIn,2025-03-01,#fail,Brand,933483,Text,-0.8771108327550432,Australia,46,0.006490737923735168,Night,Sports
+"Fantastic service, will definitely use again! #satisfied",Neutral,3434,858,168,Reddit,2024-06-08,#satisfied,Brand,886707,Video,0.029747617247680713,South Africa,56,0.005029840714192271,Afternoon,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,1596,952,50,Facebook,2025-01-12,#neutral,Brand,566984,Link,0.5896323598352577,India,50,0.004582131802428635,Morning,Entertainment
+Absolutely loving this new product! #amazing #happy,Neutral,3022,868,77,Facebook,2024-08-29,"#amazing, #happy",Brand,531590,Video,0.16190693396867817,India,51,0.007462504067977073,Night,Science
+"Fantastic service, will definitely use again! #satisfied",Neutral,4519,876,375,Instagram,2024-10-10,#satisfied,Individual,836609,Video,-0.13596766312762268,South Africa,56,0.006896881462091058,Afternoon,Science
+"Worst experience ever, not recommended. #angry",Neutral,797,226,183,Reddit,2024-11-07,#angry,Influencer,495862,Video,-0.05008333575542609,Australia,46,0.0024321233889199236,Night,Technology
+"Loving the new feature, makes life so easy! #great",Positive,1631,747,58,Facebook,2025-03-01,#great,Brand,565443,Video,0.5161661245014402,Germany,50,0.004308118929549168,Night,Technology
+"Neutral about the new update, doesn't change much. #okay",Neutral,2132,93,45,Twitter,2024-06-15,#okay,Brand,730644,Text,-0.05069829707946602,Brazil,56,0.003106843952945685,Evening,Sports
+"Worst experience ever, not recommended. #angry",Neutral,2092,807,71,Instagram,2024-04-23,#angry,Influencer,318124,Text,0.194844081673477,Australia,46,0.009335952848722986,Afternoon,Sports
+"This service is terrible, never using it again. #disappointed",Negative,3080,24,417,Facebook,2024-07-05,#disappointed,Brand,635027,Link,-0.9341590477601517,Brazil,61,0.005544637401815353,Night,Science
+"Worst experience ever, not recommended. #angry",Neutral,4702,299,184,Instagram,2024-10-04,#angry,Individual,357755,Image,0.0640622945642833,South Africa,46,0.014493118214649091,Evening,Politics
+"Neutral about the new update, doesn't change much. #okay",Neutral,1559,207,476,Instagram,2024-07-09,#okay,Individual,581600,Video,0.03726646362510344,Canada,56,0.003854876453101009,Morning,Education
+"Neutral about the new update, doesn't change much. #okay",Neutral,1573,737,422,Reddit,2024-07-26,#okay,Brand,695670,Image,0.03496272426002514,Australia,56,0.003927143721673032,Night,Education
+Absolutely loving this new product! #amazing #happy,Neutral,3515,826,309,Twitter,2024-09-12,"#amazing, #happy",Individual,768509,Text,-0.09493048349096225,India,51,0.00605066947730023,Afternoon,Business
+Absolutely loving this new product! #amazing #happy,Neutral,4866,680,39,Twitter,2024-07-18,"#amazing, #happy",Individual,853658,Video,0.088803774142108,France,51,0.006542425019826418,Afternoon,Lifestyle
+"Had an average experience, nothing special. #meh",Neutral,4023,396,230,Reddit,2024-10-05,#meh,Influencer,377322,Link,-0.09539519718768137,UK,48,0.012321008790876782,Night,Technology
+"Worst experience ever, not recommended. #angry",Neutral,4966,955,405,LinkedIn,2025-03-11,#angry,Brand,909707,Image,0.14997227909181055,UK,46,0.0069538797064552585,Evening,Technology
+Why is this app so slow? So frustrating! #fail,Negative,4852,371,202,LinkedIn,2025-02-01,#fail,Brand,605447,Image,-0.5253784247806007,Germany,46,0.008960307078394842,Morning,Sports
+Why is this app so slow? So frustrating! #fail,Negative,4536,333,71,LinkedIn,2025-03-04,#fail,Influencer,298041,Image,-0.7762424875555898,Germany,46,0.016574845156051832,Evening,Lifestyle
+"Loving the new feature, makes life so easy! #great",Positive,544,293,472,Twitter,2024-06-02,#great,Influencer,223627,Image,0.6392292736454286,USA,50,0.005853470942815748,Night,Science
+"Worst experience ever, not recommended. #angry",Neutral,4543,552,305,Twitter,2024-06-30,#angry,Influencer,391452,Video,0.12159315484325645,USA,46,0.013794759524131887,Morning,Entertainment
+Absolutely loving this new product! #amazing #happy,Neutral,1150,450,424,Reddit,2025-01-24,"#amazing, #happy",Influencer,135228,Link,-0.13988689416285066,India,51,0.014967203780254235,Morning,Business
+Absolutely loving this new product! #amazing #happy,Neutral,2240,80,359,Instagram,2024-10-12,"#amazing, #happy",Influencer,563583,Video,0.16298382744191903,France,51,0.004753506132182603,Evening,Science
+"I guess this is fine, not great, not bad. #neutral",Positive,2946,25,452,Instagram,2024-12-11,#neutral,Brand,566127,Link,0.5624371967074411,Germany,50,0.006046335810982675,Evening,Science
+Absolutely loving this new product! #amazing #happy,Neutral,4299,94,412,Twitter,2024-10-20,"#amazing, #happy",Influencer,739350,Video,0.16805300805846418,USA,51,0.006498942991894243,Night,Technology
+Absolutely loving this new product! #amazing #happy,Neutral,1890,351,341,Facebook,2024-12-17,"#amazing, #happy",Brand,370579,Text,-0.00106187529458307,Japan,51,0.006967456419666469,Night,Politics
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,160,340,395,Twitter,2024-03-27,#grateful,Brand,504994,Link,-0.07683324338087072,Germany,70,0.001772294775195794,Morning,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,365,213,63,LinkedIn,2024-04-09,#satisfied,Individual,794258,Image,-0.0696890467373717,France,56,0.0008070415317925261,Morning,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,4492,192,66,Reddit,2024-03-29,#neutral,Influencer,355635,Image,0.6246600781209584,Brazil,50,0.013356353125105445,Morning,Health
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,4335,231,297,LinkedIn,2024-05-07,#grateful,Influencer,538034,Video,0.15858982552570583,France,70,0.009038445454292008,Afternoon,Lifestyle
+"Loving the new feature, makes life so easy! #great",Positive,4496,489,34,Reddit,2024-06-26,#great,Individual,908574,Video,0.9594748847342798,France,50,0.005524034889799962,Afternoon,Politics
+"Worst experience ever, not recommended. #angry",Neutral,4717,825,243,Reddit,2024-09-06,#angry,Individual,500207,Text,-0.1875591109246142,Australia,46,0.011565188881425327,Evening,Entertainment
+"Loving the new feature, makes life so easy! #great",Positive,2581,318,114,Twitter,2025-01-06,#great,Influencer,105409,Link,0.5659164123200663,Brazil,50,0.02858362584195048,Evening,Education
+Absolutely loving this new product! #amazing #happy,Neutral,2015,297,49,LinkedIn,2024-09-29,"#amazing, #happy",Brand,540840,Video,0.15787198870721464,India,51,0.004365423479358998,Evening,Health
+"Loving the new feature, makes life so easy! #great",Positive,588,550,284,Facebook,2024-09-10,#great,Influencer,627053,Link,0.6104958876043254,India,50,0.002267747275354276,Morning,Health
+"Loving the new feature, makes life so easy! #great",Positive,2121,681,419,Twitter,2024-05-02,#great,Influencer,883079,Image,0.9701353307032603,UK,50,0.003647461158671921,Morning,Science
+"I guess this is fine, not great, not bad. #neutral",Positive,3938,722,361,Instagram,2024-06-27,#neutral,Influencer,752092,Video,0.5326206805131244,USA,50,0.0066760360753257905,Afternoon,Sports
+"Loving the new feature, makes life so easy! #great",Positive,1466,569,316,Reddit,2024-12-30,#great,Individual,942936,Video,0.5989824341095644,Germany,50,0.0024932736757598863,Evening,Sports
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,324,732,337,Reddit,2024-03-17,#grateful,Influencer,309542,Image,0.17572257282244758,India,70,0.004500182527144856,Evening,Politics
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3027,629,292,Instagram,2024-07-21,#grateful,Individual,858455,Image,0.0657424290912954,USA,70,0.004598954401856356,Morning,Technology
+"Neutral about the new update, doesn't change much. #okay",Neutral,327,545,17,LinkedIn,2024-11-16,#okay,Brand,446014,Link,-0.0015100875996327257,Germany,56,0.0019932065065076288,Afternoon,Politics
+"Fantastic service, will definitely use again! #satisfied",Neutral,2787,368,201,LinkedIn,2024-10-18,#satisfied,Individual,595516,Text,0.14302524380827925,Canada,56,0.005635439458487331,Afternoon,Education
+"Neutral about the new update, doesn't change much. #okay",Neutral,4745,498,114,Reddit,2024-05-11,#okay,Individual,269664,Text,-0.04713786753362084,Japan,56,0.01986538853763002,Morning,Politics
+"Worst experience ever, not recommended. #angry",Neutral,2682,69,382,Instagram,2024-05-03,#angry,Individual,532836,Link,-0.058270711791864827,France,46,0.005879846932551606,Afternoon,Health
+Why is this app so slow? So frustrating! #fail,Negative,1399,95,398,LinkedIn,2024-03-27,#fail,Influencer,977413,Link,-0.9175206220495036,Canada,46,0.0019357201758927129,Morning,Sports
+Absolutely loving this new product! #amazing #happy,Neutral,86,63,226,Facebook,2024-12-25,"#amazing, #happy",Influencer,573545,Text,-0.03035758496378166,Japan,51,0.0006538272431505058,Night,Science
+Absolutely loving this new product! #amazing #happy,Neutral,414,488,356,LinkedIn,2024-08-10,"#amazing, #happy",Brand,357915,Video,0.13782424477548566,Australia,51,0.0035147911800534203,Evening,Science
+"Fantastic service, will definitely use again! #satisfied",Neutral,2421,667,76,Twitter,2025-02-05,#satisfied,Individual,591982,Image,-0.14030201351672497,UK,56,0.005344748075535953,Afternoon,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,94,444,453,Instagram,2025-02-04,#neutral,Influencer,776140,Text,0.8905730802090228,France,50,0.0012768298543692448,Evening,Health
+"Had an average experience, nothing special. #meh",Neutral,4240,195,233,Facebook,2024-06-02,#meh,Brand,38519,Link,-0.12112176553863617,USA,48,0.12118380062305296,Evening,Politics
+"Fantastic service, will definitely use again! #satisfied",Neutral,4208,579,100,Facebook,2024-09-08,#satisfied,Brand,857866,Link,-0.16536535365341096,USA,56,0.0056966872487227045,Evening,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,1505,254,117,Instagram,2024-04-22,#satisfied,Influencer,619939,Link,0.057137258206450325,UK,56,0.0030260992999322513,Afternoon,Lifestyle
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2570,19,293,Twitter,2024-04-14,#grateful,Brand,896925,Video,-0.044779637676843814,Japan,70,0.0032131970753440085,Morning,Health
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,547,204,297,LinkedIn,2025-02-12,#grateful,Individual,670289,Text,0.1164362034796626,UK,70,0.0015635023646481375,Afternoon,Lifestyle
+"This service is terrible, never using it again. #disappointed",Negative,1184,292,320,Instagram,2024-11-08,#disappointed,Brand,222454,Video,-0.7180610200190456,Australia,61,0.008073542963745477,Morning,Lifestyle
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2457,780,307,Twitter,2025-03-12,#grateful,Individual,414985,Image,-0.13247309078418518,Japan,70,0.008540047134120187,Evening,Sports
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2949,405,336,Twitter,2024-10-31,#grateful,Individual,183744,Image,-0.049265820108709946,Canada,70,0.020082179106914472,Morning,Business
+"Fantastic service, will definitely use again! #satisfied",Neutral,1327,513,201,Facebook,2024-08-03,#satisfied,Brand,234344,Video,-0.07725541310884908,France,56,0.008709381467494505,Afternoon,Politics
+"Had an average experience, nothing special. #meh",Neutral,2942,530,461,LinkedIn,2024-10-16,#meh,Individual,291557,Image,-0.1885516609451242,France,48,0.013489597267096084,Morning,Technology
+Absolutely loving this new product! #amazing #happy,Neutral,4523,846,23,LinkedIn,2024-11-23,"#amazing, #happy",Influencer,810177,Video,-0.020771334092610727,France,51,0.006655327594676725,Evening,Entertainment
+"Loving the new feature, makes life so easy! #great",Positive,1791,263,256,Instagram,2024-07-17,#great,Individual,371850,Link,0.6218906735621048,South Africa,50,0.006212165625479022,Evening,Entertainment
+"Had an average experience, nothing special. #meh",Neutral,4786,36,314,LinkedIn,2024-09-24,#meh,Individual,256837,Text,-0.1553881292243479,France,48,0.019997040936310048,Evening,Entertainment
+"This service is terrible, never using it again. #disappointed",Negative,3757,506,368,Reddit,2024-05-26,#disappointed,Brand,814213,Image,-0.6905046099302896,India,61,0.005687693898655636,Morning,Sports
+"Loving the new feature, makes life so easy! #great",Positive,4960,23,393,Facebook,2024-10-02,#great,Brand,377297,Video,0.5296520569382285,South Africa,50,0.014248684064055469,Evening,Entertainment
+"Fantastic service, will definitely use again! #satisfied",Neutral,1960,658,301,Facebook,2025-02-03,#satisfied,Influencer,741114,Image,0.01118868677619339,Japan,56,0.003938659992039023,Night,Science
+"Neutral about the new update, doesn't change much. #okay",Neutral,4612,380,118,LinkedIn,2024-08-07,#okay,Influencer,901530,Video,0.03696972553256267,Canada,56,0.005668135649245561,Morning,Lifestyle
+"Loving the new feature, makes life so easy! #great",Positive,2392,637,470,Instagram,2024-12-07,#great,Individual,203617,Link,0.8055514060961326,Germany,50,0.017184138926813936,Night,Politics
+Why is this app so slow? So frustrating! #fail,Negative,2813,138,477,Twitter,2024-08-30,#fail,Influencer,333212,Link,-0.8329597750032113,India,46,0.010287713864705159,Evening,Business
+"This service is terrible, never using it again. #disappointed",Negative,4768,121,243,Instagram,2024-08-11,#disappointed,Individual,347847,Video,-0.9574387703488182,South Africa,61,0.014753570525056922,Night,Politics
+"I guess this is fine, not great, not bad. #neutral",Positive,3064,943,240,Reddit,2024-11-01,#neutral,Individual,326633,Link,0.8080061413794029,USA,50,0.013002320640227287,Afternoon,Business
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,298,261,66,Twitter,2024-10-28,#grateful,Brand,16093,Link,-0.18911324629835496,India,70,0.03883434820429974,Afternoon,Sports
+Why is this app so slow? So frustrating! #fail,Negative,2942,254,177,Facebook,2024-06-01,#fail,Individual,690088,Text,-0.5007631868958281,Japan,46,0.0048877753449192785,Night,Politics
+Absolutely loving this new product! #amazing #happy,Neutral,2331,742,381,Twitter,2024-04-18,"#amazing, #happy",Brand,731619,Link,0.08688637301712826,Brazil,51,0.004721030042918455,Evening,Education
+"I guess this is fine, not great, not bad. #neutral",Positive,2777,592,188,Facebook,2024-11-18,#neutral,Influencer,176054,Link,0.5668939019613778,Canada,50,0.020203913549742977,Afternoon,Sports
+Why is this app so slow? So frustrating! #fail,Negative,3247,515,485,Facebook,2024-06-22,#fail,Brand,590435,Image,-0.883295013302844,USA,46,0.007192989587355784,Morning,Health
+"I guess this is fine, not great, not bad. #neutral",Positive,3204,136,181,Instagram,2024-09-15,#neutral,Brand,180296,Link,0.961573674375022,Australia,50,0.01952888844517657,Afternoon,Sports
+"I guess this is fine, not great, not bad. #neutral",Positive,190,940,155,Facebook,2025-02-02,#neutral,Individual,862444,Text,0.5698392221025376,Brazil,50,0.001489950083773458,Afternoon,Education
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3891,977,65,Instagram,2024-10-18,#grateful,Influencer,803723,Text,0.11044157754121842,Canada,70,0.006137679103771942,Night,Entertainment
+"This service is terrible, never using it again. #disappointed",Negative,1281,500,475,Reddit,2024-06-30,#disappointed,Individual,928403,Text,-0.6855313188440455,Brazil,61,0.002429976605012473,Evening,Sports
+"I guess this is fine, not great, not bad. #neutral",Positive,2473,334,67,Facebook,2024-08-09,#neutral,Brand,240253,Link,0.5122422906238021,UK,50,0.01196233985698469,Afternoon,Sports
+"Fantastic service, will definitely use again! #satisfied",Neutral,1819,522,389,Twitter,2024-06-29,#satisfied,Individual,855151,Text,-0.13625902880509477,Brazil,56,0.003192414915710891,Night,Lifestyle
+"Had an average experience, nothing special. #meh",Neutral,1557,109,98,Instagram,2024-07-27,#meh,Brand,638098,Text,-0.11828438747316837,Brazil,48,0.0027644613139967307,Night,Technology
+"Neutral about the new update, doesn't change much. #okay",Neutral,237,389,202,LinkedIn,2024-09-11,#okay,Brand,78136,Link,0.09045801000688725,Brazil,56,0.010596772335769226,Afternoon,Technology
+Absolutely loving this new product! #amazing #happy,Neutral,650,619,80,Reddit,2024-09-12,"#amazing, #happy",Influencer,329448,Video,0.19204578772638076,Canada,51,0.004094715722312103,Evening,Business
+"Worst experience ever, not recommended. #angry",Neutral,552,986,122,Facebook,2025-02-22,#angry,Influencer,16188,Link,-0.023467162719269574,Canada,46,0.10253876088702205,Evening,Entertainment
+"Loving the new feature, makes life so easy! #great",Positive,3758,156,288,LinkedIn,2024-12-12,#great,Brand,642073,Link,0.8538028321633899,India,50,0.0065444169986637055,Evening,Politics
+"Worst experience ever, not recommended. #angry",Neutral,1653,73,262,Facebook,2024-10-22,#angry,Brand,165142,Link,-0.18328362471953077,Australia,46,0.012038051870197344,Night,Business
+"I guess this is fine, not great, not bad. #neutral",Positive,2327,300,216,Instagram,2024-09-25,#neutral,Brand,535533,Image,0.7228008081972892,South Africa,50,0.005308719894535174,Afternoon,Politics
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3345,478,128,Facebook,2025-02-07,#grateful,Influencer,327221,Video,-0.08885352116858858,USA,70,0.012074371527586777,Morning,Entertainment
+Absolutely loving this new product! #amazing #happy,Neutral,4775,647,225,LinkedIn,2025-02-13,"#amazing, #happy",Influencer,651968,Image,-0.1286379970221318,India,51,0.008661454762419685,Night,Education
+"Loving the new feature, makes life so easy! #great",Positive,3750,40,461,Twitter,2024-04-22,#great,Individual,150727,Text,0.8169246988557872,Australia,50,0.028203120853457886,Afternoon,Business
+Why is this app so slow? So frustrating! #fail,Negative,504,930,228,Instagram,2024-05-28,#fail,Influencer,278832,Image,-0.6994293895401766,South Africa,46,0.0059605570359319016,Night,Technology
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3130,189,202,Instagram,2024-04-21,#grateful,Influencer,291643,Text,0.10748425135600853,Australia,70,0.012072938239771777,Afternoon,Politics
+"I guess this is fine, not great, not bad. #neutral",Positive,1023,435,240,Facebook,2024-12-29,#neutral,Individual,563357,Image,0.9128224324938202,South Africa,50,0.0030140692064371147,Afternoon,Sports
+"Loving the new feature, makes life so easy! #great",Positive,1292,868,458,LinkedIn,2024-12-16,#great,Influencer,788496,Text,0.7562527109155555,India,50,0.0033202409140427928,Afternoon,Sports
+"Loving the new feature, makes life so easy! #great",Positive,4498,640,225,Reddit,2025-02-10,#great,Brand,764509,Text,0.5777212480151259,Brazil,50,0.007014950752769748,Evening,Education
+"Had an average experience, nothing special. #meh",Neutral,4912,590,376,LinkedIn,2025-02-27,#meh,Individual,741036,Image,-0.15707030977979386,Australia,48,0.007932127545588141,Afternoon,Health
+"Neutral about the new update, doesn't change much. #okay",Neutral,2102,610,409,Facebook,2024-08-11,#okay,Individual,803184,Video,-0.09986936685976136,USA,56,0.003885779739412464,Morning,Sports
+"Loving the new feature, makes life so easy! #great",Positive,2434,204,5,Reddit,2024-06-10,#great,Influencer,821886,Video,0.8220439036548548,Australia,50,0.0032157705377989917,Afternoon,Technology
+"This service is terrible, never using it again. #disappointed",Negative,3876,974,186,Instagram,2025-02-20,#disappointed,Individual,789985,Video,-0.7752839954939591,Japan,61,0.006374796515381285,Morning,Education
+"Neutral about the new update, doesn't change much. #okay",Neutral,3768,376,84,LinkedIn,2024-09-07,#okay,Individual,366238,Link,0.1743467930462494,India,56,0.011544374028981076,Morning,Science
+"Fantastic service, will definitely use again! #satisfied",Neutral,179,479,68,Facebook,2024-06-05,#satisfied,Brand,485394,Text,-0.11656759864001552,South Africa,56,0.0014956890779674287,Evening,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,904,180,53,Facebook,2024-12-24,#neutral,Influencer,804604,Image,0.9959007708611363,UK,50,0.00141311575244996,Morning,Politics
+"Fantastic service, will definitely use again! #satisfied",Neutral,49,621,45,Reddit,2025-01-23,#satisfied,Influencer,694959,Link,0.10249822611415704,Germany,56,0.001028836192011051,Afternoon,Sports
+"Worst experience ever, not recommended. #angry",Neutral,2720,326,477,Instagram,2024-11-08,#angry,Brand,316897,Link,-0.11121605660109637,France,46,0.011117141793258399,Evening,Entertainment
+"Worst experience ever, not recommended. #angry",Neutral,774,114,165,Facebook,2024-04-26,#angry,Individual,410557,Image,0.027255257027921476,Brazil,46,0.0025648020498930725,Afternoon,Technology
+"Had an average experience, nothing special. #meh",Neutral,2547,978,10,Reddit,2024-10-04,#meh,Individual,470071,Image,-0.18262318873409156,India,48,0.0075201245766605964,Afternoon,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,4146,212,287,Facebook,2024-06-16,#satisfied,Influencer,95834,Link,0.11848928281232346,Japan,56,0.04846872228309073,Afternoon,Sports
+"I guess this is fine, not great, not bad. #neutral",Positive,1354,689,68,Twitter,2024-04-13,#neutral,Brand,503764,Text,0.541971174106015,Canada,50,0.004190445942056316,Night,Lifestyle
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2165,412,333,Twitter,2024-05-04,#grateful,Influencer,260517,Video,0.019624622781249462,Canada,70,0.011170053508778664,Afternoon,Lifestyle
+"Neutral about the new update, doesn't change much. #okay",Neutral,3922,115,25,Instagram,2024-11-15,#okay,Individual,983172,Link,0.054153644408013735,Brazil,56,0.004131521105644683,Night,Lifestyle
+"Fantastic service, will definitely use again! #satisfied",Neutral,3013,608,249,Reddit,2024-06-30,#satisfied,Brand,981356,Text,-0.07775543903480045,South Africa,56,0.003943519025186553,Evening,Health
+"This service is terrible, never using it again. #disappointed",Negative,4190,676,34,LinkedIn,2024-06-27,#disappointed,Influencer,401711,Video,-0.7264516649582764,USA,61,0.012197793444059425,Morning,Sports
+"Fantastic service, will definitely use again! #satisfied",Neutral,809,854,197,Twitter,2025-03-14,#satisfied,Individual,77911,Image,0.19308118880941677,Australia,56,0.023873087585994456,Afternoon,Politics
+Absolutely loving this new product! #amazing #happy,Neutral,4304,144,486,LinkedIn,2025-01-12,"#amazing, #happy",Brand,379883,Link,-0.18642450696812163,USA,51,0.012988175337734676,Morning,Health
+"Loving the new feature, makes life so easy! #great",Positive,3277,210,473,Reddit,2024-10-30,#great,Individual,379828,Text,0.8160673340446596,Brazil,50,0.010425744216476362,Morning,Technology
+"This service is terrible, never using it again. #disappointed",Negative,2419,65,413,Twitter,2024-12-12,#disappointed,Influencer,23099,Video,-0.7207917524961562,Brazil,61,0.12541125541125542,Night,Technology
+"Had an average experience, nothing special. #meh",Neutral,422,655,494,Instagram,2024-04-26,#meh,Individual,479860,Text,0.12421231125378313,India,48,0.00327386472332613,Morning,Health
+Why is this app so slow? So frustrating! #fail,Negative,846,199,76,Reddit,2024-07-07,#fail,Individual,249349,Text,-0.9153589227446787,South Africa,46,0.004495688790856226,Night,Lifestyle
+"I guess this is fine, not great, not bad. #neutral",Positive,4474,517,220,Instagram,2024-07-10,#neutral,Brand,262898,Video,0.8631494493757905,Australia,50,0.01982130019513197,Evening,Business
+"Worst experience ever, not recommended. #angry",Neutral,2616,604,435,Facebook,2024-08-04,#angry,Influencer,807198,Video,-0.08058997943327025,India,46,0.0045280036273583095,Morning,Technology
+"Fantastic service, will definitely use again! #satisfied",Neutral,4040,426,21,Facebook,2024-04-15,#satisfied,Individual,827616,Video,0.03572358889176025,India,56,0.005421589938341044,Night,Technology
+"Had an average experience, nothing special. #meh",Neutral,2011,169,459,Facebook,2024-07-03,#meh,Influencer,419359,Link,-0.08442402526589149,USA,48,0.0062929225486455555,Evening,Science
+"Loving the new feature, makes life so easy! #great",Positive,2824,866,332,Reddit,2024-06-19,#great,Brand,79083,Link,0.5272014635533766,France,50,0.050857316271306456,Evening,Politics
+"Neutral about the new update, doesn't change much. #okay",Neutral,413,572,117,Twitter,2024-05-07,#okay,Brand,510662,Image,-0.005456209249877109,Canada,56,0.0021579789411020575,Evening,Lifestyle
+"Had an average experience, nothing special. #meh",Neutral,3327,786,126,Twitter,2024-05-15,#meh,Influencer,945010,Video,0.10188070272630273,UK,48,0.004485662071658425,Night,Health
+"Had an average experience, nothing special. #meh",Neutral,1023,591,19,Twitter,2024-06-09,#meh,Individual,444369,Image,0.02487657955563627,Brazil,48,0.0036748655399779463,Morning,Sports
+Absolutely loving this new product! #amazing #happy,Neutral,3197,297,456,Twitter,2024-07-12,"#amazing, #happy",Individual,696803,Video,-0.16899702763344876,Japan,51,0.005668738985424883,Afternoon,Entertainment
+"Had an average experience, nothing special. #meh",Neutral,1934,854,212,Instagram,2024-09-23,#meh,Brand,129306,Text,0.043903969231895046,Japan,48,0.023200600122189826,Afternoon,Science
+"Had an average experience, nothing special. #meh",Neutral,2662,623,410,Instagram,2024-06-12,#meh,Brand,964437,Video,-0.032294806635691786,UK,48,0.003831246798653724,Morning,Business
+"I guess this is fine, not great, not bad. #neutral",Positive,4990,790,263,Facebook,2024-09-04,#neutral,Influencer,23188,Video,0.7942746279574292,Germany,50,0.26059769718400966,Night,Science
+"Worst experience ever, not recommended. #angry",Neutral,2387,309,490,Facebook,2024-12-12,#angry,Individual,577594,Text,0.1944613001426328,India,46,0.005515975726936694,Morning,Health
+"Had an average experience, nothing special. #meh",Neutral,922,425,373,Instagram,2025-03-05,#meh,Individual,752220,Video,-0.06104805430682389,UK,48,0.0022865620608837033,Morning,Business
+"Neutral about the new update, doesn't change much. #okay",Neutral,888,447,108,Instagram,2024-07-30,#okay,Individual,891456,Image,-0.008965767022044213,UK,56,0.0016186983780485207,Morning,Science
+"Had an average experience, nothing special. #meh",Neutral,2535,15,290,Reddit,2024-06-10,#meh,Individual,934103,Text,0.017715830478060413,Japan,48,0.0030403466851656774,Morning,Education
+"This service is terrible, never using it again. #disappointed",Negative,1055,324,221,Instagram,2024-12-30,#disappointed,Influencer,632290,Text,-0.5255164122143082,Canada,61,0.0025304804275246683,Evening,Science
+"Had an average experience, nothing special. #meh",Neutral,1029,214,254,Twitter,2025-01-22,#meh,Influencer,811328,Link,0.1908189158983537,Germany,48,0.0018451207833073881,Night,Entertainment
+"Fantastic service, will definitely use again! #satisfied",Neutral,3553,458,352,Instagram,2024-10-10,#satisfied,Brand,555911,Text,0.14426346174858073,Germany,56,0.007848364489343637,Afternoon,Education
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3537,985,287,Facebook,2024-07-19,#grateful,Individual,93337,Link,-0.15923262531332388,India,70,0.05152242387880606,Night,Sports
+Why is this app so slow? So frustrating! #fail,Negative,4523,663,242,Instagram,2024-08-31,#fail,Influencer,502636,Link,-0.8640778875885498,Brazil,46,0.010799045832280552,Night,Business
+"I guess this is fine, not great, not bad. #neutral",Positive,4679,804,208,Twitter,2024-07-13,#neutral,Individual,416622,Video,0.5938796859017659,Germany,50,0.013659831550346476,Afternoon,Entertainment
+Why is this app so slow? So frustrating! #fail,Negative,3780,127,46,Twitter,2024-06-27,#fail,Brand,983012,Link,-0.7635643303449422,USA,46,0.004021309992848518,Afternoon,Education
+Why is this app so slow? So frustrating! #fail,Negative,2576,330,351,LinkedIn,2024-06-15,#fail,Influencer,158488,Link,-0.5745145887354572,India,46,0.020550322104373173,Night,Lifestyle
+"Loving the new feature, makes life so easy! #great",Positive,2578,656,108,LinkedIn,2024-08-16,#great,Individual,596871,Text,0.6933193343910643,Canada,50,0.005599190446192818,Evening,Technology
+"This service is terrible, never using it again. #disappointed",Negative,1016,561,303,Facebook,2024-09-23,#disappointed,Brand,54477,Link,-0.6017211634757427,Brazil,61,0.03450934322111678,Afternoon,Entertainment
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3956,945,19,LinkedIn,2024-06-01,#grateful,Influencer,200102,Video,0.0956832314251953,UK,70,0.024587337521176596,Night,Technology
+"Neutral about the new update, doesn't change much. #okay",Neutral,682,937,313,Facebook,2024-12-22,#okay,Influencer,940750,Image,0.014047444339931742,France,56,0.0020536783909876257,Night,Business
+"I guess this is fine, not great, not bad. #neutral",Positive,3226,310,104,Twitter,2024-08-15,#neutral,Brand,429618,Text,0.7600983002488699,USA,50,0.008472623417493174,Evening,Entertainment
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3568,87,393,Twitter,2024-06-07,#grateful,Influencer,559780,Text,0.15814502828297766,Germany,70,0.007231399422274068,Evening,Lifestyle
+"Neutral about the new update, doesn't change much. #okay",Neutral,4321,276,495,Facebook,2024-09-04,#okay,Brand,828610,Video,-0.04919377603761391,South Africa,56,0.006145223753968991,Evening,Politics
+"Fantastic service, will definitely use again! #satisfied",Neutral,3176,687,119,LinkedIn,2024-06-12,#satisfied,Influencer,399130,Image,-0.08615363062403479,Australia,56,0.009976674324971,Morning,Health
+"This service is terrible, never using it again. #disappointed",Negative,3611,233,378,Facebook,2025-01-30,#disappointed,Individual,318112,Link,-0.5078701265046173,Australia,61,0.01327201340404196,Afternoon,Business
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,4976,865,168,Facebook,2025-03-06,#grateful,Influencer,813057,Link,-0.09232637851758906,UK,70,0.007390616659574102,Morning,Science
+Absolutely loving this new product! #amazing #happy,Neutral,1575,742,331,Instagram,2025-02-02,"#amazing, #happy",Influencer,805054,Image,-0.19225525635934054,Australia,51,0.0032892162647272546,Afternoon,Health
+"I guess this is fine, not great, not bad. #neutral",Positive,2503,214,119,Twitter,2025-02-19,#neutral,Influencer,488190,Text,0.8760644014034358,USA,50,0.005809201726373489,Afternoon,Science
+"Fantastic service, will definitely use again! #satisfied",Neutral,868,525,11,Twitter,2025-02-06,#satisfied,Influencer,954887,Text,0.001095142689533285,France,56,0.0014703295046120592,Evening,Lifestyle
+Why is this app so slow? So frustrating! #fail,Negative,540,573,75,LinkedIn,2024-04-22,#fail,Influencer,32886,Image,-0.5209901425049502,France,46,0.0361236962933682,Night,Entertainment
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2986,38,490,Facebook,2024-05-12,#grateful,Brand,583729,Text,-0.05275783887770566,Canada,70,0.0060199064636047486,Evening,Lifestyle
+"Neutral about the new update, doesn't change much. #okay",Neutral,4045,415,44,LinkedIn,2024-03-21,#okay,Individual,208218,Image,-0.14649416530643308,Australia,56,0.02163107113183715,Afternoon,Education
+"Loving the new feature, makes life so easy! #great",Positive,3126,966,447,Twitter,2024-04-22,#great,Individual,754713,Text,0.5927921545386032,USA,50,0.006014198756085086,Morning,Science
+Absolutely loving this new product! #amazing #happy,Neutral,2130,160,380,Reddit,2024-11-07,"#amazing, #happy",Influencer,777451,Text,0.13887916336544648,Canada,51,0.0034342956221091463,Evening,Education
+"Loving the new feature, makes life so easy! #great",Positive,3861,556,412,Twitter,2024-12-05,#great,Individual,680408,Text,0.9943787070031648,France,50,0.007097201830075734,Morning,Science
+"Had an average experience, nothing special. #meh",Neutral,1973,767,404,LinkedIn,2025-02-19,#meh,Influencer,337209,Link,-0.1455060965506438,South Africa,48,0.009323566916758104,Evening,Health
+"Neutral about the new update, doesn't change much. #okay",Neutral,2745,70,491,Facebook,2024-10-25,#okay,Influencer,650984,Text,-0.022841773597285148,France,56,0.005078458028986843,Night,Entertainment
+"Had an average experience, nothing special. #meh",Neutral,583,673,479,Twitter,2024-12-09,#meh,Brand,984866,Text,0.0018202764403217608,Germany,48,0.0017616591884995639,Evening,Technology
+"Loving the new feature, makes life so easy! #great",Positive,2425,545,388,Facebook,2025-01-16,#great,Influencer,800550,Text,0.712334225509381,France,50,0.004194610961700129,Evening,Health
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,2731,64,479,LinkedIn,2024-09-06,#grateful,Influencer,671072,Text,0.08305206448541558,South Africa,70,0.004878753876254893,Morning,Technology
+"Neutral about the new update, doesn't change much. #okay",Neutral,2830,244,185,Twitter,2024-12-08,#okay,Individual,490161,Link,-0.1384204589386876,Japan,56,0.0066488222261211595,Night,Technology
+"Loving the new feature, makes life so easy! #great",Positive,3564,48,423,LinkedIn,2024-06-30,#great,Brand,712659,Link,0.7448478383157103,Germany,50,0.0056618864535683214,Night,Technology
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,4087,11,284,Twitter,2024-09-13,#grateful,Brand,515623,Image,0.12315362666474994,South Africa,70,0.008498440724248678,Morning,Science
+"Fantastic service, will definitely use again! #satisfied",Neutral,4131,432,326,Instagram,2025-01-09,#satisfied,Individual,426413,Link,0.0006735014127386418,UK,56,0.011465383406736177,Afternoon,Health
+"I guess this is fine, not great, not bad. #neutral",Positive,4186,601,7,LinkedIn,2024-12-03,#neutral,Individual,879662,Link,0.8374565490607833,Canada,50,0.00544981430388683,Evening,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,2186,493,110,Reddit,2025-02-07,#neutral,Influencer,513167,Image,0.9695840199071055,Brazil,50,0.005434867333894553,Afternoon,Business
+"Had an average experience, nothing special. #meh",Neutral,2033,872,16,Twitter,2024-05-14,#meh,Influencer,177464,Video,-0.0734798774214224,Australia,48,0.01645958357986082,Afternoon,Politics
+"This service is terrible, never using it again. #disappointed",Negative,65,793,45,LinkedIn,2024-05-04,#disappointed,Individual,953665,Text,-0.9425220051258789,France,61,0.000946872385090797,Morning,Politics
+"Had an average experience, nothing special. #meh",Neutral,4693,420,133,Reddit,2025-01-15,#meh,Influencer,234675,Link,-0.12614878955407743,India,48,0.0223542245478873,Evening,Technology
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,1455,382,110,Facebook,2024-08-17,#grateful,Individual,287050,Video,0.054634084890977985,Canada,70,0.006782766825407332,Night,Business
+"Worst experience ever, not recommended. #angry",Neutral,4504,333,441,Instagram,2024-06-08,#angry,Brand,527027,Text,0.043706396620887406,India,46,0.010014648178085415,Evening,Entertainment
+"Had an average experience, nothing special. #meh",Neutral,3432,214,436,Instagram,2024-06-26,#meh,Individual,601288,Link,0.11309146659527619,France,48,0.006788748837913216,Afternoon,Sports
+"Loving the new feature, makes life so easy! #great",Positive,2904,138,242,Instagram,2025-03-01,#great,Individual,266292,Image,0.9746809622600043,Canada,50,0.012332280608202243,Afternoon,Business
+Absolutely loving this new product! #amazing #happy,Neutral,484,26,13,Instagram,2024-11-01,"#amazing, #happy",Individual,686059,Image,0.1524192298055964,Brazil,51,0.0007623239949858613,Night,Sports
+"This service is terrible, never using it again. #disappointed",Negative,3442,122,254,Reddit,2024-12-11,#disappointed,Brand,60600,Image,-0.9598855735353415,Germany,61,0.0630022606887675,Evening,Entertainment
+"Fantastic service, will definitely use again! #satisfied",Neutral,540,205,356,Facebook,2024-12-31,#satisfied,Influencer,637826,Text,-0.1908883040951298,South Africa,56,0.00172617339811579,Morning,Technology
+"Neutral about the new update, doesn't change much. #okay",Neutral,1535,217,363,Facebook,2024-03-30,#okay,Individual,326745,Link,0.13657594060408867,Germany,56,0.006472917801595123,Night,Business
+Absolutely loving this new product! #amazing #happy,Neutral,870,558,440,Instagram,2024-10-24,"#amazing, #happy",Brand,821715,Image,-0.1659004244568763,Australia,51,0.0022732915021735005,Afternoon,Science
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3136,280,62,Instagram,2025-01-08,#grateful,Individual,366835,Text,0.0007991850022793512,USA,70,0.009481076012168925,Afternoon,Sports
+"Had an average experience, nothing special. #meh",Neutral,2073,959,251,Instagram,2025-02-22,#meh,Individual,437247,Link,-0.025812815563662828,Germany,48,0.0075083247950819675,Morning,Sports
+"Fantastic service, will definitely use again! #satisfied",Neutral,273,525,233,Twitter,2025-01-12,#satisfied,Brand,65717,Text,0.014458279377533356,Brazil,56,0.015688243707964334,Evening,Lifestyle
+"Loving the new feature, makes life so easy! #great",Positive,2446,979,386,Twitter,2024-08-21,#great,Influencer,397554,Image,0.5816327999388833,Australia,50,0.009586095005722479,Night,Education
+"This service is terrible, never using it again. #disappointed",Negative,498,662,182,Facebook,2024-07-05,#disappointed,Brand,43071,Text,-0.8304593976900692,Japan,61,0.031157132243684993,Night,Politics
+"I guess this is fine, not great, not bad. #neutral",Positive,3453,659,405,LinkedIn,2024-08-15,#neutral,Individual,961520,Video,0.8013687163297502,India,50,0.004697765311418055,Evening,Health
+Absolutely loving this new product! #amazing #happy,Neutral,4815,457,219,LinkedIn,2024-06-19,"#amazing, #happy",Individual,88794,Image,0.12458197222867734,Australia,51,0.06183906751506278,Evening,Entertainment
+"Fantastic service, will definitely use again! #satisfied",Neutral,2856,43,21,Facebook,2025-01-05,#satisfied,Individual,420555,Text,0.17433375391896394,France,56,0.006943189492005821,Evening,Science
+Why is this app so slow? So frustrating! #fail,Negative,4967,138,295,LinkedIn,2024-06-30,#fail,Individual,829505,Image,-0.9717811905674858,France,46,0.006509898662577486,Night,Education
+"Worst experience ever, not recommended. #angry",Neutral,4217,329,61,LinkedIn,2025-02-19,#angry,Influencer,494475,Video,0.1888696615591316,UK,46,0.009316933481099184,Afternoon,Politics
+"Loving the new feature, makes life so easy! #great",Positive,1661,873,443,Instagram,2024-11-25,#great,Brand,326239,Text,0.504330041621103,South Africa,50,0.009125183913683178,Evening,Politics
+Why is this app so slow? So frustrating! #fail,Negative,2229,837,226,Twitter,2025-02-12,#fail,Influencer,760680,Video,-0.9335838608924882,USA,46,0.004327701099409608,Evening,Business
+Absolutely loving this new product! #amazing #happy,Neutral,273,867,126,Twitter,2024-09-30,"#amazing, #happy",Individual,416865,Image,-0.1857772727026772,Canada,51,0.003036947124495641,Evening,Science
+"Worst experience ever, not recommended. #angry",Neutral,2566,400,404,Instagram,2024-04-15,#angry,Brand,419083,Text,0.09705348059767954,Australia,46,0.008041347319391816,Afternoon,Lifestyle
+"Neutral about the new update, doesn't change much. #okay",Neutral,1927,597,323,LinkedIn,2025-02-21,#okay,Individual,96647,Text,-0.021216886747228075,Germany,56,0.029457412465855475,Afternoon,Politics
+"This service is terrible, never using it again. #disappointed",Negative,4258,649,459,Twitter,2024-05-21,#disappointed,Influencer,679895,Video,-0.7485620029343238,Japan,61,0.007892383541012155,Morning,Technology
+"This service is terrible, never using it again. #disappointed",Negative,1892,626,44,Reddit,2024-04-05,#disappointed,Influencer,324441,Video,-0.6949193716256741,India,61,0.007896634837659736,Afternoon,Politics
+Absolutely loving this new product! #amazing #happy,Neutral,4649,516,84,Facebook,2024-03-15,"#amazing, #happy",Influencer,1612,Text,0.07317933021281375,India,51,3.254184748915065,Afternoon,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,4832,384,169,Reddit,2024-04-26,#satisfied,Brand,379933,Text,0.16797546614527414,Brazil,56,0.01417351434722873,Evening,Business
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,13,834,277,LinkedIn,2025-02-12,#grateful,Influencer,175369,Image,-0.11616847036311691,France,70,0.006409306038661117,Morning,Science
+"Loving the new feature, makes life so easy! #great",Positive,4205,78,248,Twitter,2024-06-14,#great,Individual,146850,Video,0.7604896909808058,France,50,0.03085440344294557,Morning,Technology
+"Loving the new feature, makes life so easy! #great",Positive,3634,474,139,Reddit,2024-08-27,#great,Individual,332919,Text,0.6886344623578782,UK,50,0.012756818454884055,Evening,Science
+"Had an average experience, nothing special. #meh",Neutral,4335,157,420,LinkedIn,2024-11-11,#meh,Brand,165665,Link,0.011630018092432776,Australia,48,0.029650018712348944,Evening,Politics
+"Loving the new feature, makes life so easy! #great",Positive,4455,383,442,Instagram,2024-03-16,#great,Influencer,139596,Text,0.8271974809013953,France,50,0.03782316238887655,Afternoon,Entertainment
+Why is this app so slow? So frustrating! #fail,Negative,4149,742,329,Instagram,2024-08-12,#fail,Brand,688630,Text,-0.8179365841009143,USA,46,0.007580257060748064,Morning,Sports
+"Fantastic service, will definitely use again! #satisfied",Neutral,200,354,11,Instagram,2024-07-28,#satisfied,Individual,127012,Link,-0.16224003567032358,USA,56,0.00444836355333706,Evening,Politics
+"I guess this is fine, not great, not bad. #neutral",Positive,460,914,178,LinkedIn,2025-02-23,#neutral,Influencer,293039,Video,0.8859801581231632,South Africa,50,0.005296205296205296,Night,Sports
+"This service is terrible, never using it again. #disappointed",Negative,3595,712,63,Twitter,2024-10-17,#disappointed,Brand,836942,Link,-0.8506652231707164,France,61,0.005221383057149651,Evening,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,4895,358,168,Reddit,2024-11-23,#neutral,Influencer,173888,Image,0.5636931890328356,South Africa,50,0.03117505995203837,Morning,Business
+"Had an average experience, nothing special. #meh",Neutral,2149,59,272,Reddit,2025-01-30,#meh,Influencer,928849,Video,0.15267957295182571,Germany,48,0.0026699682402971416,Afternoon,Politics
+"Worst experience ever, not recommended. #angry",Neutral,1573,263,298,Facebook,2024-06-30,#angry,Brand,573147,Text,-0.007645531945229378,France,46,0.003723296600529008,Afternoon,Lifestyle
+"This service is terrible, never using it again. #disappointed",Negative,3498,251,298,LinkedIn,2025-01-07,#disappointed,Brand,742676,Text,-0.7309178557502581,Brazil,61,0.005449206047851219,Morning,Lifestyle
+"Neutral about the new update, doesn't change much. #okay",Neutral,1494,673,297,Reddit,2024-03-17,#okay,Individual,548664,Text,-0.16169982194712973,UK,56,0.004490900640645931,Morning,Politics
+"Loving the new feature, makes life so easy! #great",Positive,1079,509,29,Instagram,2024-06-20,#great,Individual,816333,Video,0.9473056956340884,Canada,50,0.0019808068756170883,Night,Health
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3093,306,286,Facebook,2024-08-20,#grateful,Brand,190304,Image,-0.08815548503214626,Australia,70,0.019363653083208535,Afternoon,Business
+"Loving the new feature, makes life so easy! #great",Positive,1059,892,40,Twitter,2025-02-18,#great,Influencer,289240,Link,0.9479929509369313,France,50,0.006883533109068216,Night,Sports
+Absolutely loving this new product! #amazing #happy,Neutral,2443,700,21,LinkedIn,2024-07-01,"#amazing, #happy",Influencer,997496,Link,-0.17791825091352084,Brazil,51,0.0031719393642286645,Evening,Politics
+"Worst experience ever, not recommended. #angry",Neutral,1080,767,206,Instagram,2024-07-15,#angry,Brand,609557,Text,-0.05210700906164975,India,46,0.0033680142004534432,Morning,Education
+"Worst experience ever, not recommended. #angry",Neutral,290,806,460,Reddit,2024-06-16,#angry,Influencer,268926,Image,-0.14683118243351487,India,46,0.00578595678381122,Afternoon,Entertainment
+"This service is terrible, never using it again. #disappointed",Negative,4987,449,487,Instagram,2024-10-09,#disappointed,Influencer,433489,Image,-0.5142278535785407,Japan,61,0.013663521649865049,Evening,Technology
+"Fantastic service, will definitely use again! #satisfied",Neutral,2709,421,88,Twitter,2024-12-04,#satisfied,Influencer,552308,Video,-0.03274493096463754,India,56,0.005826448600330612,Night,Business
+"Fantastic service, will definitely use again! #satisfied",Neutral,4899,506,58,Facebook,2024-10-05,#satisfied,Individual,488974,Text,-0.021515321728763193,Australia,56,0.011172350324658725,Evening,Politics
+Why is this app so slow? So frustrating! #fail,Negative,4042,432,453,Twitter,2024-06-18,#fail,Brand,700355,Image,-0.7078339832387819,Brazil,46,0.007034993631810108,Morning,Business
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,315,122,52,LinkedIn,2024-09-19,#grateful,Influencer,547681,Video,0.12972086077173833,Canada,70,0.0008928538823623928,Evening,Technology
+Why is this app so slow? So frustrating! #fail,Negative,1180,372,329,LinkedIn,2024-04-16,#fail,Individual,463375,Text,-0.9673828948748131,Brazil,46,0.004059338420634647,Evening,Sports
+"Fantastic service, will definitely use again! #satisfied",Neutral,4099,799,169,Reddit,2024-07-20,#satisfied,Brand,158651,Video,0.13569054360796873,South Africa,56,0.0319378261856138,Night,Education
+Absolutely loving this new product! #amazing #happy,Neutral,1651,166,23,LinkedIn,2024-05-26,"#amazing, #happy",Brand,642131,Image,-0.071848311855852,USA,51,0.00286545445484729,Morning,Health
+"Had an average experience, nothing special. #meh",Neutral,1515,531,98,LinkedIn,2025-02-03,#meh,Influencer,641382,Text,-0.1134172374373542,India,48,0.003342776468974076,Evening,Health
+"Had an average experience, nothing special. #meh",Neutral,1534,665,448,Facebook,2024-06-03,#meh,Individual,609798,Text,-0.11778147634488821,Canada,48,0.004340774583100333,Morning,Business
+"I guess this is fine, not great, not bad. #neutral",Positive,2818,329,448,Twitter,2024-05-23,#neutral,Brand,936658,Text,0.8741601356132394,India,50,0.003838109706947779,Evening,Education
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,4246,86,284,Facebook,2024-05-24,#grateful,Influencer,354497,Video,-0.07211581244980811,Brazil,70,0.013021230021043842,Night,Health
+"Worst experience ever, not recommended. #angry",Neutral,1963,364,165,Instagram,2024-11-17,#angry,Influencer,17162,Link,-0.15468602374115728,India,46,0.14519606129464546,Morning,Sports
+"I guess this is fine, not great, not bad. #neutral",Positive,263,738,326,LinkedIn,2024-03-17,#neutral,Influencer,982901,Video,0.6270920229237239,Canada,50,0.001350083731643643,Morning,Technology
+"Neutral about the new update, doesn't change much. #okay",Neutral,4303,703,448,LinkedIn,2025-02-24,#okay,Influencer,35016,Video,-0.013570445945044696,Canada,56,0.1557529200102807,Morning,Lifestyle
+"I guess this is fine, not great, not bad. #neutral",Positive,4783,71,190,LinkedIn,2024-11-15,#neutral,Individual,438386,Text,0.854840564928441,Japan,50,0.01150581563778123,Evening,Entertainment
+"Neutral about the new update, doesn't change much. #okay",Neutral,1593,505,250,LinkedIn,2024-08-20,#okay,Influencer,856010,Text,-0.10129657401114499,Australia,56,0.0027429554059468864,Night,Business
+"Worst experience ever, not recommended. #angry",Neutral,673,465,390,Facebook,2024-11-02,#angry,Influencer,357511,Image,-0.169603598085986,Australia,46,0.004273982411779185,Afternoon,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,3968,566,420,LinkedIn,2024-05-23,#neutral,Brand,780705,Image,0.5325808296515081,South Africa,50,0.006345538525385996,Night,Education
+"This service is terrible, never using it again. #disappointed",Negative,1501,670,369,Facebook,2024-04-15,#disappointed,Individual,964049,Text,-0.6601804118228265,South Africa,61,0.002634718116280276,Afternoon,Education
+"Loving the new feature, makes life so easy! #great",Positive,3675,308,396,Twitter,2024-08-16,#great,Brand,314898,Link,0.954803254519206,UK,50,0.013906046065563879,Evening,Science
+"Had an average experience, nothing special. #meh",Neutral,1634,55,97,Instagram,2024-10-01,#meh,Influencer,51870,Video,-0.18579485963858142,UK,48,0.034431570627132695,Night,Technology
+"I guess this is fine, not great, not bad. #neutral",Positive,4681,111,266,Facebook,2025-02-12,#neutral,Brand,492001,Image,0.8906771205737847,France,50,0.010280446014447095,Morning,Sports
+"I guess this is fine, not great, not bad. #neutral",Positive,1779,692,441,Twitter,2024-11-10,#neutral,Brand,891608,Link,0.5893385931222662,India,50,0.0032660056145687177,Morning,Lifestyle
+"Had an average experience, nothing special. #meh",Neutral,4438,841,241,Twitter,2024-10-20,#meh,Influencer,824180,Video,0.03959050032796388,Canada,48,0.006697557939336141,Evening,Business
+"Loving the new feature, makes life so easy! #great",Positive,598,135,189,Twitter,2024-11-08,#great,Influencer,786342,Video,0.6953011075471671,Japan,50,0.0011725163192143886,Afternoon,Education
+"Fantastic service, will definitely use again! #satisfied",Neutral,2377,9,448,Reddit,2024-09-03,#satisfied,Brand,51493,Image,0.15438704130047692,South Africa,56,0.05503553812094613,Morning,Entertainment
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3343,108,320,Facebook,2024-10-06,#grateful,Individual,790895,Image,0.18553041348876104,South Africa,70,0.004768009953268192,Morning,Entertainment
+"I guess this is fine, not great, not bad. #neutral",Positive,1893,49,461,LinkedIn,2024-07-11,#neutral,Individual,638836,Video,0.9590609558498613,Australia,50,0.0037615228923809987,Evening,Health
+"Neutral about the new update, doesn't change much. #okay",Neutral,2285,736,310,Facebook,2024-08-06,#okay,Brand,391459,Link,-0.18064460901009022,Japan,56,0.00850917079650539,Night,Education
+"Neutral about the new update, doesn't change much. #okay",Neutral,969,904,272,Twitter,2024-07-11,#okay,Brand,298577,Video,0.1804435112766496,USA,56,0.007184052408415891,Afternoon,Education
+"This service is terrible, never using it again. #disappointed",Negative,878,860,383,Reddit,2024-05-16,#disappointed,Brand,631548,Link,-0.9605580055526477,USA,61,0.0033584092445716803,Evening,Lifestyle
+Best customer support ever! They solved my issue in minutes. #grateful,Neutral,3962,5,255,Instagram,2024-12-19,#grateful,Individual,634551,Link,0.09636849403984499,USA,70,0.006653513029665024,Afternoon,Politics
+"Neutral about the new update, doesn't change much. #okay",Neutral,4550,814,217,Instagram,2024-08-22,#okay,Influencer,907106,Text,0.03907300438159261,Japan,56,0.006152526658927778,Night,Sports
+"Worst experience ever, not recommended. #angry",Neutral,3440,181,146,Reddit,2024-05-11,#angry,Influencer,138422,Video,0.000971027753168402,Germany,46,0.027213685586932806,Evening,Education
+Why is this app so slow? So frustrating! #fail,Negative,460,81,368,Instagram,2025-01-05,#fail,Individual,879889,Link,-0.6693729947586049,Australia,46,0.0010330836809146597,Evening,Education
